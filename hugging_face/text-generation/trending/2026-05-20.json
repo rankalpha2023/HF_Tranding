@@ -1,0 +1,309 @@
+{
+  "category": "text-generation",
+  "sort": "trending",
+  "totalItems": 367293,
+  "fetchedItems": 30,
+  "models": [
+    {
+      "author": "sapientinc",
+      "id": "sapientinc/HRM-Text-1B",
+      "downloads": 23532,
+      "likes": 175,
+      "pipeline_tag": "text-generation",
+      "lastModified": "2026-05-20T03:03:36.000Z",
+      "numParameters": 1182795264,
+      "repoType": "model"
+    },
+    {
+      "author": "deepseek-ai",
+      "id": "deepseek-ai/DeepSeek-V4-Pro",
+      "downloads": 3817887,
+      "likes": 4080,
+      "pipeline_tag": "text-generation",
+      "lastModified": "2026-05-06T04:18:44.000Z",
+      "numParameters": 861608274846,
+      "repoType": "model"
+    },
+    {
+      "author": "inclusionAI",
+      "id": "inclusionAI/Ring-2.6-1T",
+      "downloads": 3454,
+      "likes": 88,
+      "pipeline_tag": "text-generation",
+      "lastModified": "2026-05-18T09:47:28.000Z",
+      "numParameters": 1025657871744,
+      "repoType": "model"
+    },
+    {
+      "author": "deepseek-ai",
+      "id": "deepseek-ai/DeepSeek-V4-Flash",
+      "downloads": 2289519,
+      "likes": 1165,
+      "pipeline_tag": "text-generation",
+      "lastModified": "2026-05-06T04:18:09.000Z",
+      "numParameters": 158069433298,
+      "repoType": "model"
+    },
+    {
+      "author": "FrontiersMind",
+      "id": "FrontiersMind/Nandi-Mini-600M-Early-Checkpoint",
+      "downloads": 18626,
+      "likes": 105,
+      "pipeline_tag": "text-generation",
+      "lastModified": "2026-05-17T19:46:30.000Z",
+      "numParameters": 645461232,
+      "repoType": "model"
+    },
+    {
+      "author": "Jiunsong",
+      "id": "Jiunsong/supergemma4-26b-uncensored-gguf-v2",
+      "downloads": 255430,
+      "likes": 635,
+      "pipeline_tag": "text-generation",
+      "lastModified": "2026-04-12T13:42:43.000Z",
+      "numParameters": 25233142046,
+      "repoType": "model"
+    },
+    {
+      "author": "antirez",
+      "id": "antirez/deepseek-v4-gguf",
+      "downloads": 326891,
+      "likes": 152,
+      "pipeline_tag": "text-generation",
+      "lastModified": "2026-05-18T20:41:13.000Z",
+      "numParameters": 284334567511,
+      "repoType": "model"
+    },
+    {
+      "author": "Jackrong",
+      "id": "Jackrong/Qwopus3.5-9B-Coder-MTP-GGUF",
+      "downloads": 6680,
+      "likes": 51,
+      "pipeline_tag": "text-generation",
+      "lastModified": "2026-05-19T23:43:59.000Z",
+      "numParameters": 9197093888,
+      "repoType": "model"
+    },
+    {
+      "author": "nvidia",
+      "id": "nvidia/Nemotron-Labs-Diffusion-14B",
+      "downloads": 65,
+      "likes": 42,
+      "pipeline_tag": "text-generation",
+      "lastModified": "2026-05-19T18:52:46.000Z",
+      "numParameters": 13506073600,
+      "repoType": "model"
+    },
+    {
+      "author": "OBLITERATUS",
+      "id": "OBLITERATUS/gemma-4-E4B-it-OBLITERATED",
+      "downloads": 318168,
+      "likes": 636,
+      "pipeline_tag": "text-generation",
+      "lastModified": "2026-04-19T21:43:06.000Z",
+      "numParameters": 7996156448,
+      "repoType": "model"
+    },
+    {
+      "author": "zai-org",
+      "id": "zai-org/GLM-5.1",
+      "downloads": 223217,
+      "likes": 1669,
+      "pipeline_tag": "text-generation",
+      "lastModified": "2026-05-13T08:10:58.000Z",
+      "numParameters": 753864139008,
+      "repoType": "model"
+    },
+    {
+      "author": "meta-llama",
+      "id": "meta-llama/Llama-3.1-8B-Instruct",
+      "downloads": 10988783,
+      "likes": 5859,
+      "pipeline_tag": "text-generation",
+      "lastModified": "2024-09-25T17:00:57.000Z",
+      "numParameters": 8030261248,
+      "repoType": "model"
+    },
+    {
+      "author": "ByteDance-Seed",
+      "id": "ByteDance-Seed/Cola-DLM",
+      "downloads": 0,
+      "likes": 27,
+      "pipeline_tag": "text-generation",
+      "lastModified": "2026-05-15T09:38:05.000Z",
+      "numParameters": null,
+      "repoType": "model"
+    },
+    {
+      "author": "HuggingFaceBio",
+      "id": "HuggingFaceBio/Carbon-3B",
+      "downloads": 2184,
+      "likes": 25,
+      "pipeline_tag": "text-generation",
+      "lastModified": "2026-05-20T13:39:48.000Z",
+      "numParameters": 3451444224,
+      "repoType": "model"
+    },
+    {
+      "author": "nvidia",
+      "id": "nvidia/Kimi-K2.6-NVFP4",
+      "downloads": 56882,
+      "likes": 23,
+      "pipeline_tag": "text-generation",
+      "lastModified": "2026-05-15T17:40:07.000Z",
+      "numParameters": null,
+      "repoType": "model"
+    },
+    {
+      "author": "XiaomiMiMo",
+      "id": "XiaomiMiMo/MiMo-V2.5-Pro",
+      "downloads": 66738,
+      "likes": 534,
+      "pipeline_tag": "text-generation",
+      "lastModified": "2026-05-08T08:09:51.000Z",
+      "numParameters": 1023244718976,
+      "repoType": "model"
+    },
+    {
+      "author": "Ex0bit",
+      "id": "Ex0bit/Qwen3.6-27B-PRISM-PRO-DQ",
+      "downloads": 243,
+      "likes": 22,
+      "pipeline_tag": "text-generation",
+      "lastModified": "2026-05-19T21:32:32.000Z",
+      "numParameters": 27320697856,
+      "repoType": "model"
+    },
+    {
+      "author": "FINAL-Bench",
+      "id": "FINAL-Bench/Darwin-28B-REASON",
+      "downloads": 264,
+      "likes": 24,
+      "pipeline_tag": "text-generation",
+      "lastModified": "2026-05-17T09:32:18.000Z",
+      "numParameters": 26895998464,
+      "repoType": "model"
+    },
+    {
+      "author": "HuggingFaceBio",
+      "id": "HuggingFaceBio/Carbon-8B",
+      "downloads": 1107,
+      "likes": 20,
+      "pipeline_tag": "text-generation",
+      "lastModified": "2026-05-20T13:40:10.000Z",
+      "numParameters": 8255705088,
+      "repoType": "model"
+    },
+    {
+      "author": "Simplified-Reasoning",
+      "id": "Simplified-Reasoning/SU-01",
+      "downloads": 712,
+      "likes": 19,
+      "pipeline_tag": "text-generation",
+      "lastModified": "2026-05-20T09:44:56.000Z",
+      "numParameters": 30532122624,
+      "repoType": "model"
+    },
+    {
+      "author": "chiennv",
+      "id": "chiennv/Orthrus-Qwen3-8B",
+      "downloads": 1860,
+      "likes": 18,
+      "pipeline_tag": "text-generation",
+      "lastModified": "2026-05-16T22:44:53.000Z",
+      "numParameters": 9700694016,
+      "repoType": "model"
+    },
+    {
+      "author": "HuggingFaceBio",
+      "id": "HuggingFaceBio/Carbon-500M",
+      "downloads": 706,
+      "likes": 19,
+      "pipeline_tag": "text-generation",
+      "lastModified": "2026-05-20T13:40:43.000Z",
+      "numParameters": 511894528,
+      "repoType": "model"
+    },
+    {
+      "author": "openai",
+      "id": "openai/gpt-oss-120b",
+      "downloads": 4941552,
+      "likes": 4788,
+      "pipeline_tag": "text-generation",
+      "lastModified": "2025-08-26T17:25:03.000Z",
+      "numParameters": 120412337472,
+      "repoType": "model"
+    },
+    {
+      "author": "openai",
+      "id": "openai/gpt-oss-20b",
+      "downloads": 7811289,
+      "likes": 4625,
+      "pipeline_tag": "text-generation",
+      "lastModified": "2025-08-26T17:25:47.000Z",
+      "numParameters": 21511953984,
+      "repoType": "model"
+    },
+    {
+      "author": "z-lab",
+      "id": "z-lab/Qwen3.6-27B-DFlash",
+      "downloads": 71633,
+      "likes": 310,
+      "pipeline_tag": "text-generation",
+      "lastModified": "2026-04-27T04:19:13.000Z",
+      "numParameters": 1730213120,
+      "repoType": "model"
+    },
+    {
+      "author": "zed-industries",
+      "id": "zed-industries/zeta-2.1",
+      "downloads": 2492,
+      "likes": 43,
+      "pipeline_tag": "text-generation",
+      "lastModified": "2026-05-08T19:09:36.000Z",
+      "numParameters": 8250462208,
+      "repoType": "model"
+    },
+    {
+      "author": "Gryphe",
+      "id": "Gryphe/WorldSim-Opus-3.6-35B-A3B",
+      "downloads": 261,
+      "likes": 16,
+      "pipeline_tag": "text-generation",
+      "lastModified": "2026-05-15T06:16:53.000Z",
+      "numParameters": 35107181936,
+      "repoType": "model"
+    },
+    {
+      "author": "unsloth",
+      "id": "unsloth/Qwen3-Coder-30B-A3B-Instruct-GGUF",
+      "downloads": 174448,
+      "likes": 670,
+      "pipeline_tag": "text-generation",
+      "lastModified": "2026-01-30T06:29:38.000Z",
+      "numParameters": 30532122624,
+      "repoType": "model"
+    },
+    {
+      "author": "Qwen",
+      "id": "Qwen/WebWorld-8B",
+      "downloads": 1814,
+      "likes": 48,
+      "pipeline_tag": "text-generation",
+      "lastModified": "2026-05-08T12:10:29.000Z",
+      "numParameters": 8190735360,
+      "repoType": "model"
+    },
+    {
+      "author": "hesamation",
+      "id": "hesamation/Qwen3.6-35B-A3B-Claude-4.6-Opus-Reasoning-Distilled-GGUF",
+      "downloads": 279149,
+      "likes": 256,
+      "pipeline_tag": "text-generation",
+      "lastModified": "2026-04-19T01:24:41.000Z",
+      "numParameters": 34660610688,
+      "repoType": "model"
+    }
+  ],
+  "fetchedAt": "2026-05-20T21:29:53.281Z"
+}
