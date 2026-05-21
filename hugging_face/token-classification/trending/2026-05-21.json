@@ -1,0 +1,309 @@
+{
+  "category": "token-classification",
+  "sort": "trending",
+  "totalItems": 27533,
+  "fetchedItems": 30,
+  "models": [
+    {
+      "author": "openai",
+      "id": "openai/privacy-filter",
+      "downloads": 306301,
+      "likes": 1485,
+      "pipeline_tag": "token-classification",
+      "lastModified": "2026-04-22T16:50:17.000Z",
+      "numParameters": 1399486865,
+      "repoType": "model"
+    },
+    {
+      "author": "fastino",
+      "id": "fastino/gliner2-privacy-filter-PII-multi",
+      "downloads": 4269,
+      "likes": 22,
+      "pipeline_tag": "token-classification",
+      "lastModified": "2026-05-14T18:18:54.000Z",
+      "numParameters": 307098645,
+      "repoType": "model"
+    },
+    {
+      "author": "OpenMed",
+      "id": "OpenMed/privacy-filter-nemotron",
+      "downloads": 12469,
+      "likes": 43,
+      "pipeline_tag": "token-classification",
+      "lastModified": "2026-04-28T08:01:07.000Z",
+      "numParameters": null,
+      "repoType": "model"
+    },
+    {
+      "author": "nvidia",
+      "id": "nvidia/gliner-PII",
+      "downloads": 9620,
+      "likes": 128,
+      "pipeline_tag": "token-classification",
+      "lastModified": "2025-12-07T21:51:24.000Z",
+      "numParameters": null,
+      "repoType": "model"
+    },
+    {
+      "author": "kalyan-ks",
+      "id": "kalyan-ks/ettin-68m-nemotron-pii",
+      "downloads": 373,
+      "likes": 5,
+      "pipeline_tag": "token-classification",
+      "lastModified": "2026-05-18T13:58:13.000Z",
+      "numParameters": 68462187,
+      "repoType": "model"
+    },
+    {
+      "author": "OpenMed",
+      "id": "OpenMed/OpenMed-PII-SuperClinical-Small-44M-v1",
+      "downloads": 27343,
+      "likes": 9,
+      "pipeline_tag": "token-classification",
+      "lastModified": "2026-01-13T20:03:57.000Z",
+      "numParameters": 141385834,
+      "repoType": "model"
+    },
+    {
+      "author": "OpenMed",
+      "id": "OpenMed/privacy-filter-multilingual",
+      "downloads": 19210,
+      "likes": 8,
+      "pipeline_tag": "token-classification",
+      "lastModified": "2026-05-03T21:36:31.000Z",
+      "numParameters": null,
+      "repoType": "model"
+    },
+    {
+      "author": "digitflow",
+      "id": "digitflow/privacy-filter-de-ft",
+      "downloads": 13,
+      "likes": 3,
+      "pipeline_tag": "token-classification",
+      "lastModified": "2026-05-12T13:24:14.000Z",
+      "numParameters": 1399486832,
+      "repoType": "model"
+    },
+    {
+      "author": "ab-ai",
+      "id": "ab-ai/pii_model",
+      "downloads": 5278,
+      "likes": 29,
+      "pipeline_tag": "token-classification",
+      "lastModified": "2026-05-04T11:20:29.000Z",
+      "numParameters": 108978545,
+      "repoType": "model"
+    },
+    {
+      "author": "iiiorg",
+      "id": "iiiorg/piiranha-v1-detect-personal-information",
+      "downloads": 46664,
+      "likes": 243,
+      "pipeline_tag": "token-classification",
+      "lastModified": "2025-11-01T04:01:28.000Z",
+      "numParameters": null,
+      "repoType": "model"
+    },
+    {
+      "author": "KRLabsOrg",
+      "id": "KRLabsOrg/lettucedect-base-modernbert-en-v1",
+      "downloads": 10327,
+      "likes": 19,
+      "pipeline_tag": "token-classification",
+      "lastModified": "2025-04-01T10:21:06.000Z",
+      "numParameters": 149606402,
+      "repoType": "model"
+    },
+    {
+      "author": "OpenMed",
+      "id": "OpenMed/OpenMed-PII-SuperClinical-Large-434M-v1",
+      "downloads": 74775,
+      "likes": 14,
+      "pipeline_tag": "token-classification",
+      "lastModified": "2026-01-13T20:03:20.000Z",
+      "numParameters": 434120810,
+      "repoType": "model"
+    },
+    {
+      "author": "DataSign",
+      "id": "DataSign/gliner-ja-pii-v1",
+      "downloads": 14,
+      "likes": 2,
+      "pipeline_tag": "token-classification",
+      "lastModified": "2026-05-18T08:29:21.000Z",
+      "numParameters": null,
+      "repoType": "model"
+    },
+    {
+      "author": "Babelscape",
+      "id": "Babelscape/wikineural-multilingual-ner",
+      "downloads": 759562,
+      "likes": 162,
+      "pipeline_tag": "token-classification",
+      "lastModified": "2023-05-23T08:47:23.000Z",
+      "numParameters": 177270281,
+      "repoType": "model"
+    },
+    {
+      "author": "d4data",
+      "id": "d4data/biomedical-ner-all",
+      "downloads": 106747,
+      "likes": 191,
+      "pipeline_tag": "token-classification",
+      "lastModified": "2023-07-02T07:28:28.000Z",
+      "numParameters": 66427476,
+      "repoType": "model"
+    },
+    {
+      "author": "skadio",
+      "id": "skadio/ner4opt-roberta-v2",
+      "downloads": 9,
+      "likes": 1,
+      "pipeline_tag": "token-classification",
+      "lastModified": "2023-05-11T03:44:45.000Z",
+      "numParameters": null,
+      "repoType": "model"
+    },
+    {
+      "author": "skadio",
+      "id": "skadio/ner4opt-roberta-v1",
+      "downloads": 15,
+      "likes": 1,
+      "pipeline_tag": "token-classification",
+      "lastModified": "2026-03-27T22:57:06.000Z",
+      "numParameters": null,
+      "repoType": "model"
+    },
+    {
+      "author": "Xenova",
+      "id": "Xenova/bert-base-NER",
+      "downloads": 49489,
+      "likes": 4,
+      "pipeline_tag": "token-classification",
+      "lastModified": "2025-07-11T16:01:45.000Z",
+      "numParameters": null,
+      "repoType": "model"
+    },
+    {
+      "author": "pczarnik",
+      "id": "pczarnik/herbert-base-ner",
+      "downloads": 4632,
+      "likes": 6,
+      "pipeline_tag": "token-classification",
+      "lastModified": "2025-01-28T09:50:52.000Z",
+      "numParameters": 123858185,
+      "repoType": "model"
+    },
+    {
+      "author": "algiraldohe",
+      "id": "algiraldohe/lm-ner-linkedin-skills-recognition",
+      "downloads": 244,
+      "likes": 25,
+      "pipeline_tag": "token-classification",
+      "lastModified": "2023-07-07T22:51:06.000Z",
+      "numParameters": null,
+      "repoType": "model"
+    },
+    {
+      "author": "numind",
+      "id": "numind/NuNER-v0.1",
+      "downloads": 7011,
+      "likes": 64,
+      "pipeline_tag": "token-classification",
+      "lastModified": "2024-04-30T04:38:21.000Z",
+      "numParameters": null,
+      "repoType": "model"
+    },
+    {
+      "author": "numind",
+      "id": "numind/NuNER-multilingual-v0.1",
+      "downloads": 6297,
+      "likes": 71,
+      "pipeline_tag": "token-classification",
+      "lastModified": "2024-03-15T13:03:34.000Z",
+      "numParameters": null,
+      "repoType": "model"
+    },
+    {
+      "author": "DAMO-NLP-SG",
+      "id": "DAMO-NLP-SG/roberta-time_identification",
+      "downloads": 8,
+      "likes": 3,
+      "pipeline_tag": "token-classification",
+      "lastModified": "2023-10-26T05:51:52.000Z",
+      "numParameters": null,
+      "repoType": "model"
+    },
+    {
+      "author": "igorsterner",
+      "id": "igorsterner/AnE-LID",
+      "downloads": 79,
+      "likes": 3,
+      "pipeline_tag": "token-classification",
+      "lastModified": "2026-04-01T22:00:03.000Z",
+      "numParameters": 558844932,
+      "repoType": "model"
+    },
+    {
+      "author": "marquesafonso",
+      "id": "marquesafonso/bertimbau-large-ner-total",
+      "downloads": 114,
+      "likes": 3,
+      "pipeline_tag": "token-classification",
+      "lastModified": "2026-01-12T13:56:21.000Z",
+      "numParameters": 108939768,
+      "repoType": "model"
+    },
+    {
+      "author": "numind",
+      "id": "numind/NuNER-v1.0",
+      "downloads": 35,
+      "likes": 9,
+      "pipeline_tag": "token-classification",
+      "lastModified": "2024-04-30T04:39:20.000Z",
+      "numParameters": 124645632,
+      "repoType": "model"
+    },
+    {
+      "author": "numind",
+      "id": "numind/NuNER-BERT-v1.0",
+      "downloads": 1429,
+      "likes": 1,
+      "pipeline_tag": "token-classification",
+      "lastModified": "2024-03-19T19:20:53.000Z",
+      "numParameters": 109482240,
+      "repoType": "model"
+    },
+    {
+      "author": "urchade",
+      "id": "urchade/gliner_small-v2.1",
+      "downloads": 10750,
+      "likes": 12,
+      "pipeline_tag": "token-classification",
+      "lastModified": "2024-04-10T10:13:00.000Z",
+      "numParameters": null,
+      "repoType": "model"
+    },
+    {
+      "author": "numind",
+      "id": "numind/NuNER_Zero-span",
+      "downloads": 30,
+      "likes": 20,
+      "pipeline_tag": "token-classification",
+      "lastModified": "2025-02-03T13:06:57.000Z",
+      "numParameters": null,
+      "repoType": "model"
+    },
+    {
+      "author": "numind",
+      "id": "numind/NuNER-v2.0",
+      "downloads": 6007,
+      "likes": 44,
+      "pipeline_tag": "token-classification",
+      "lastModified": "2024-05-07T01:38:29.000Z",
+      "numParameters": 124645632,
+      "repoType": "model"
+    }
+  ],
+  "fetchedAt": "2026-05-21T21:21:57.469Z"
+}

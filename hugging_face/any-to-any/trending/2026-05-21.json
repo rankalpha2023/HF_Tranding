@@ -1,0 +1,309 @@
+{
+  "category": "any-to-any",
+  "sort": "trending",
+  "totalItems": 11045,
+  "fetchedItems": 30,
+  "models": [
+    {
+      "author": "bytedance-research",
+      "id": "bytedance-research/Lance",
+      "downloads": 739,
+      "likes": 557,
+      "pipeline_tag": "any-to-any",
+      "lastModified": "2026-05-20T12:40:00.000Z",
+      "numParameters": null,
+      "repoType": "model"
+    },
+    {
+      "author": "google",
+      "id": "google/gemma-4-E4B-it",
+      "downloads": 6273517,
+      "likes": 1054,
+      "pipeline_tag": "any-to-any",
+      "lastModified": "2026-05-18T16:24:57.000Z",
+      "numParameters": 7996156490,
+      "repoType": "model"
+    },
+    {
+      "author": "sensenova",
+      "id": "sensenova/SenseNova-U1-8B-MoT-Infographic",
+      "downloads": 4980,
+      "likes": 34,
+      "pipeline_tag": "any-to-any",
+      "lastModified": "2026-05-16T06:48:11.000Z",
+      "numParameters": 17552340992,
+      "repoType": "model"
+    },
+    {
+      "author": "Lightricks",
+      "id": "Lightricks/LTX-2.3-22b-IC-LoRA-LipDub",
+      "downloads": 3001,
+      "likes": 68,
+      "pipeline_tag": "any-to-any",
+      "lastModified": "2026-05-12T11:38:27.000Z",
+      "numParameters": null,
+      "repoType": "model"
+    },
+    {
+      "author": "google",
+      "id": "google/gemma-4-E2B-it",
+      "downloads": 3315446,
+      "likes": 638,
+      "pipeline_tag": "any-to-any",
+      "lastModified": "2026-05-18T16:24:52.000Z",
+      "numParameters": 5123178051,
+      "repoType": "model"
+    },
+    {
+      "author": "google",
+      "id": "google/gemma-4-31B-it-assistant",
+      "downloads": 219909,
+      "likes": 262,
+      "pipeline_tag": "any-to-any",
+      "lastModified": "2026-05-11T07:51:37.000Z",
+      "numParameters": 469518596,
+      "repoType": "model"
+    },
+    {
+      "author": "sensenova",
+      "id": "sensenova/SenseNova-U1-8B-MoT",
+      "downloads": 17979,
+      "likes": 274,
+      "pipeline_tag": "any-to-any",
+      "lastModified": "2026-05-15T17:44:07.000Z",
+      "numParameters": 17552340992,
+      "repoType": "model"
+    },
+    {
+      "author": "nvidia",
+      "id": "nvidia/Nemotron-3-Nano-Omni-30B-A3B-Reasoning-BF16",
+      "downloads": 377320,
+      "likes": 304,
+      "pipeline_tag": "any-to-any",
+      "lastModified": "2026-05-08T16:38:08.000Z",
+      "numParameters": 33015632214,
+      "repoType": "model"
+    },
+    {
+      "author": "zghhui",
+      "id": "zghhui/OmniNFT",
+      "downloads": 59,
+      "likes": 25,
+      "pipeline_tag": "any-to-any",
+      "lastModified": "2026-05-19T03:47:56.000Z",
+      "numParameters": null,
+      "repoType": "model"
+    },
+    {
+      "author": "google",
+      "id": "google/gemma-4-E4B",
+      "downloads": 1280318,
+      "likes": 257,
+      "pipeline_tag": "any-to-any",
+      "lastModified": "2026-04-02T16:14:15.000Z",
+      "numParameters": 7996156490,
+      "repoType": "model"
+    },
+    {
+      "author": "google",
+      "id": "google/gemma-4-E2B",
+      "downloads": 1160660,
+      "likes": 276,
+      "pipeline_tag": "any-to-any",
+      "lastModified": "2026-04-02T16:14:53.000Z",
+      "numParameters": 5123178051,
+      "repoType": "model"
+    },
+    {
+      "author": "llmfan46",
+      "id": "llmfan46/gemma-4-E4B-it-ultra-uncensored-heretic-GGUF",
+      "downloads": 108491,
+      "likes": 77,
+      "pipeline_tag": "any-to-any",
+      "lastModified": "2026-04-10T23:39:26.000Z",
+      "numParameters": 7518069290,
+      "repoType": "model"
+    },
+    {
+      "author": "nvidia",
+      "id": "nvidia/Nemotron-3-Nano-Omni-30B-A3B-Reasoning-NVFP4",
+      "downloads": 1270729,
+      "likes": 114,
+      "pipeline_tag": "any-to-any",
+      "lastModified": "2026-05-05T14:35:03.000Z",
+      "numParameters": 18326275008,
+      "repoType": "model"
+    },
+    {
+      "author": "google",
+      "id": "google/gemma-4-E4B-it-assistant",
+      "downloads": 91695,
+      "likes": 90,
+      "pipeline_tag": "any-to-any",
+      "lastModified": "2026-05-11T07:50:40.000Z",
+      "numParameters": 78779908,
+      "repoType": "model"
+    },
+    {
+      "author": "google",
+      "id": "google/gemma-4-26B-A4B-it-assistant",
+      "downloads": 92004,
+      "likes": 131,
+      "pipeline_tag": "any-to-any",
+      "lastModified": "2026-05-11T07:50:08.000Z",
+      "numParameters": 419711236,
+      "repoType": "model"
+    },
+    {
+      "author": "huihui-ai",
+      "id": "huihui-ai/Huihui-gemma-4-E4B-it-abliterated",
+      "downloads": 2916,
+      "likes": 21,
+      "pipeline_tag": "any-to-any",
+      "lastModified": "2026-04-10T18:05:04.000Z",
+      "numParameters": null,
+      "repoType": "model"
+    },
+    {
+      "author": "Qwen",
+      "id": "Qwen/Qwen2.5-Omni-7B",
+      "downloads": 884078,
+      "likes": 1899,
+      "pipeline_tag": "any-to-any",
+      "lastModified": "2025-04-30T13:48:45.000Z",
+      "numParameters": 10732225440,
+      "repoType": "model"
+    },
+    {
+      "author": "openbmb",
+      "id": "openbmb/MiniCPM-o-4_5",
+      "downloads": 156627,
+      "likes": 1376,
+      "pipeline_tag": "any-to-any",
+      "lastModified": "2026-05-19T14:03:16.000Z",
+      "numParameters": 9371787666,
+      "repoType": "model"
+    },
+    {
+      "author": "huihui-ai",
+      "id": "huihui-ai/Huihui-gemma-4-26B-A4B-it-abliterated",
+      "downloads": 73442,
+      "likes": 33,
+      "pipeline_tag": "any-to-any",
+      "lastModified": "2026-05-12T16:29:55.000Z",
+      "numParameters": 26544131376,
+      "repoType": "model"
+    },
+    {
+      "author": "llmfan46",
+      "id": "llmfan46/gemma-4-E2B-it-ultra-uncensored-heretic-GGUF",
+      "downloads": 13421,
+      "likes": 9,
+      "pipeline_tag": "any-to-any",
+      "lastModified": "2026-05-05T17:44:39.000Z",
+      "numParameters": 4647450147,
+      "repoType": "model"
+    },
+    {
+      "author": "cyberneurova",
+      "id": "cyberneurova/CyberNeurova-Lance-3B-abliterated",
+      "downloads": 0,
+      "likes": 4,
+      "pipeline_tag": "any-to-any",
+      "lastModified": "2026-05-20T10:40:41.000Z",
+      "numParameters": null,
+      "repoType": "model"
+    },
+    {
+      "author": "deepseek-ai",
+      "id": "deepseek-ai/Janus-Pro-7B",
+      "downloads": 26242,
+      "likes": 3604,
+      "pipeline_tag": "any-to-any",
+      "lastModified": "2025-02-01T08:00:16.000Z",
+      "numParameters": null,
+      "repoType": "model"
+    },
+    {
+      "author": "unsloth",
+      "id": "unsloth/Qwen2.5-Omni-7B-GGUF",
+      "downloads": 8003,
+      "likes": 72,
+      "pipeline_tag": "any-to-any",
+      "lastModified": "2025-05-28T19:29:46.000Z",
+      "numParameters": 7615616512,
+      "repoType": "model"
+    },
+    {
+      "author": "OmniGen2",
+      "id": "OmniGen2/OmniGen2",
+      "downloads": 3446,
+      "likes": 439,
+      "pipeline_tag": "any-to-any",
+      "lastModified": "2025-09-27T07:19:21.000Z",
+      "numParameters": null,
+      "repoType": "model"
+    },
+    {
+      "author": "openbmb",
+      "id": "openbmb/MiniCPM-o-4_5-gguf",
+      "downloads": 48502,
+      "likes": 135,
+      "pipeline_tag": "any-to-any",
+      "lastModified": "2026-02-12T05:05:50.000Z",
+      "numParameters": 8189195264,
+      "repoType": "model"
+    },
+    {
+      "author": "Lightricks",
+      "id": "Lightricks/LTX-2.3-22b-IC-LoRA-Union-Control",
+      "downloads": 0,
+      "likes": 71,
+      "pipeline_tag": "any-to-any",
+      "lastModified": "2026-04-13T14:12:39.000Z",
+      "numParameters": null,
+      "repoType": "model"
+    },
+    {
+      "author": "mlx-community",
+      "id": "mlx-community/gemma-4-e4b-it-4bit",
+      "downloads": 43214,
+      "likes": 23,
+      "pipeline_tag": "any-to-any",
+      "lastModified": "2026-05-19T13:18:45.000Z",
+      "numParameters": 1671510602,
+      "repoType": "model"
+    },
+    {
+      "author": "DavidAU",
+      "id": "DavidAU/gemma-4-E4B-it-The-DECKARD-V3-Expresso-HERETIC-UNCENSORED-Thinking",
+      "downloads": 211,
+      "likes": 8,
+      "pipeline_tag": "any-to-any",
+      "lastModified": "2026-04-14T05:57:47.000Z",
+      "numParameters": null,
+      "repoType": "model"
+    },
+    {
+      "author": "DavidAU",
+      "id": "DavidAU/gemma-4-E4B-it-The-DECKARD-Expresso-Universe-HERETIC-UNCENSORED-Thinking",
+      "downloads": 1033,
+      "likes": 23,
+      "pipeline_tag": "any-to-any",
+      "lastModified": "2026-04-14T05:57:02.000Z",
+      "numParameters": null,
+      "repoType": "model"
+    },
+    {
+      "author": "inclusionAI",
+      "id": "inclusionAI/LLaDA2.0-Uni",
+      "downloads": 4088,
+      "likes": 247,
+      "pipeline_tag": "any-to-any",
+      "lastModified": "2026-05-12T02:45:30.000Z",
+      "numParameters": 16322752256,
+      "repoType": "model"
+    }
+  ],
+  "fetchedAt": "2026-05-21T21:20:30.308Z"
+}
