@@ -1,0 +1,309 @@
+{
+  "category": "models",
+  "sort": "trending",
+  "totalItems": 2902514,
+  "fetchedItems": 30,
+  "models": [
+    {
+      "author": "bytedance-research",
+      "id": "bytedance-research/Lance",
+      "downloads": 1001,
+      "likes": 636,
+      "pipeline_tag": "any-to-any",
+      "lastModified": "2026-05-22T16:55:56.000Z",
+      "numParameters": null,
+      "repoType": "model"
+    },
+    {
+      "author": "Supertone",
+      "id": "Supertone/supertonic-3",
+      "downloads": 37545,
+      "likes": 574,
+      "pipeline_tag": "text-to-speech",
+      "lastModified": "2026-05-18T08:59:01.000Z",
+      "numParameters": null,
+      "repoType": "model"
+    },
+    {
+      "author": "openbmb",
+      "id": "openbmb/MiniCPM-V-4.6",
+      "downloads": 221612,
+      "likes": 903,
+      "pipeline_tag": "image-text-to-text",
+      "lastModified": "2026-05-19T14:01:40.000Z",
+      "numParameters": 1300428016,
+      "repoType": "model"
+    },
+    {
+      "author": "tencent",
+      "id": "tencent/Hy-MT2-1.8B",
+      "downloads": 564,
+      "likes": 272,
+      "pipeline_tag": "translation",
+      "lastModified": "2026-05-22T05:09:24.000Z",
+      "numParameters": 2038515712,
+      "repoType": "model"
+    },
+    {
+      "author": "SulphurAI",
+      "id": "SulphurAI/Sulphur-2-base",
+      "downloads": 1249582,
+      "likes": 1264,
+      "pipeline_tag": "text-to-video",
+      "lastModified": "2026-05-22T01:12:13.000Z",
+      "numParameters": 8953803264,
+      "repoType": "model"
+    },
+    {
+      "author": "NemoStation",
+      "id": "NemoStation/Marlin-2B",
+      "downloads": 4002,
+      "likes": 249,
+      "pipeline_tag": "video-text-to-text",
+      "lastModified": "2026-05-20T07:54:57.000Z",
+      "numParameters": 2213241664,
+      "repoType": "model"
+    },
+    {
+      "author": "sapientinc",
+      "id": "sapientinc/HRM-Text-1B",
+      "downloads": 72470,
+      "likes": 240,
+      "pipeline_tag": "text-generation",
+      "lastModified": "2026-05-21T05:57:38.000Z",
+      "numParameters": 1182795264,
+      "repoType": "model"
+    },
+    {
+      "author": "unsloth",
+      "id": "unsloth/Qwen3.6-27B-MTP-GGUF",
+      "downloads": 532255,
+      "likes": 409,
+      "pipeline_tag": "image-text-to-text",
+      "lastModified": "2026-05-20T08:48:34.000Z",
+      "numParameters": 27320697856,
+      "repoType": "model"
+    },
+    {
+      "author": "unsloth",
+      "id": "unsloth/Qwen3.6-35B-A3B-MTP-GGUF",
+      "downloads": 466060,
+      "likes": 331,
+      "pipeline_tag": "image-text-to-text",
+      "lastModified": "2026-05-20T08:48:17.000Z",
+      "numParameters": 35505251456,
+      "repoType": "model"
+    },
+    {
+      "author": "tencent",
+      "id": "tencent/Hy-MT2-30B-A3B",
+      "downloads": 224,
+      "likes": 187,
+      "pipeline_tag": "translation",
+      "lastModified": "2026-05-22T05:15:55.000Z",
+      "numParameters": 30064725888,
+      "repoType": "model"
+    },
+    {
+      "author": "CohereLabs",
+      "id": "CohereLabs/command-a-plus-05-2026-w4a4",
+      "downloads": 2127,
+      "likes": 171,
+      "pipeline_tag": "image-text-to-text",
+      "lastModified": "2026-05-22T14:39:44.000Z",
+      "numParameters": 125789176144,
+      "repoType": "model"
+    },
+    {
+      "author": "circlestone-labs",
+      "id": "circlestone-labs/Anima",
+      "downloads": 602483,
+      "likes": 1494,
+      "pipeline_tag": "",
+      "lastModified": "2026-05-14T17:13:39.000Z",
+      "numParameters": null,
+      "repoType": "model"
+    },
+    {
+      "author": "Jackrong",
+      "id": "Jackrong/Qwopus3.5-9B-Coder-GGUF",
+      "downloads": 28599,
+      "likes": 160,
+      "pipeline_tag": "image-text-to-text",
+      "lastModified": "2026-05-19T23:41:58.000Z",
+      "numParameters": 8953803264,
+      "repoType": "model"
+    },
+    {
+      "author": "froggeric",
+      "id": "froggeric/Qwen-Fixed-Chat-Templates",
+      "downloads": 0,
+      "likes": 366,
+      "pipeline_tag": "",
+      "lastModified": "2026-05-16T13:44:07.000Z",
+      "numParameters": null,
+      "repoType": "model"
+    },
+    {
+      "author": "ResembleAI",
+      "id": "ResembleAI/Dramabox",
+      "downloads": 1354,
+      "likes": 226,
+      "pipeline_tag": "text-to-speech",
+      "lastModified": "2026-05-13T16:39:38.000Z",
+      "numParameters": null,
+      "repoType": "model"
+    },
+    {
+      "author": "deepseek-ai",
+      "id": "deepseek-ai/DeepSeek-V4-Pro",
+      "downloads": 4287396,
+      "likes": 4150,
+      "pipeline_tag": "text-generation",
+      "lastModified": "2026-05-06T04:18:44.000Z",
+      "numParameters": 861608274846,
+      "repoType": "model"
+    },
+    {
+      "author": "TencentARC",
+      "id": "TencentARC/Pixal3D",
+      "downloads": 0,
+      "likes": 189,
+      "pipeline_tag": "image-to-3d",
+      "lastModified": "2026-05-20T16:26:19.000Z",
+      "numParameters": null,
+      "repoType": "model"
+    },
+    {
+      "author": "CohereLabs",
+      "id": "CohereLabs/command-a-plus-05-2026-bf16",
+      "downloads": 11950,
+      "likes": 105,
+      "pipeline_tag": "image-text-to-text",
+      "lastModified": "2026-05-22T14:40:13.000Z",
+      "numParameters": 218750277872,
+      "repoType": "model"
+    },
+    {
+      "author": "deepseek-ai",
+      "id": "deepseek-ai/DeepSeek-V4-Flash",
+      "downloads": 2556531,
+      "likes": 1189,
+      "pipeline_tag": "text-generation",
+      "lastModified": "2026-05-06T04:18:09.000Z",
+      "numParameters": 158069433298,
+      "repoType": "model"
+    },
+    {
+      "author": "Efficient-Large-Model",
+      "id": "Efficient-Large-Model/SANA-WM_bidirectional",
+      "downloads": 0,
+      "likes": 81,
+      "pipeline_tag": "image-to-video",
+      "lastModified": "2026-05-19T06:57:12.000Z",
+      "numParameters": null,
+      "repoType": "model"
+    },
+    {
+      "author": "Qwen",
+      "id": "Qwen/Qwen3.6-27B",
+      "downloads": 4049995,
+      "likes": 1387,
+      "pipeline_tag": "image-text-to-text",
+      "lastModified": "2026-04-24T02:39:16.000Z",
+      "numParameters": 27781427952,
+      "repoType": "model"
+    },
+    {
+      "author": "HiDream-ai",
+      "id": "HiDream-ai/HiDream-O1-Image",
+      "downloads": 22783,
+      "likes": 421,
+      "pipeline_tag": "image-text-to-image",
+      "lastModified": "2026-05-15T10:40:00.000Z",
+      "numParameters": 8804887792,
+      "repoType": "model"
+    },
+    {
+      "author": "numind",
+      "id": "numind/NuExtract3",
+      "downloads": 7576,
+      "likes": 74,
+      "pipeline_tag": "image-to-text",
+      "lastModified": "2026-05-20T09:24:47.000Z",
+      "numParameters": 4539265536,
+      "repoType": "model"
+    },
+    {
+      "author": "Cactus-Compute",
+      "id": "Cactus-Compute/needle",
+      "downloads": 328,
+      "likes": 118,
+      "pipeline_tag": "",
+      "lastModified": "2026-05-13T09:32:17.000Z",
+      "numParameters": null,
+      "repoType": "model"
+    },
+    {
+      "author": "facebook",
+      "id": "facebook/VGGT-Omega",
+      "downloads": 0,
+      "likes": 90,
+      "pipeline_tag": "",
+      "lastModified": "2026-05-14T21:23:21.000Z",
+      "numParameters": null,
+      "repoType": "model"
+    },
+    {
+      "author": "Qwen",
+      "id": "Qwen/Qwen3.6-35B-A3B",
+      "downloads": 5978432,
+      "likes": 1865,
+      "pipeline_tag": "image-text-to-text",
+      "lastModified": "2026-04-24T02:53:42.000Z",
+      "numParameters": 35951822704,
+      "repoType": "model"
+    },
+    {
+      "author": "google",
+      "id": "google/gemma-4-31B-it",
+      "downloads": 10283716,
+      "likes": 2730,
+      "pipeline_tag": "image-text-to-text",
+      "lastModified": "2026-05-18T16:25:18.000Z",
+      "numParameters": 32682372656,
+      "repoType": "model"
+    },
+    {
+      "author": "Jackrong",
+      "id": "Jackrong/Qwopus3.5-9B-Coder-MTP-GGUF",
+      "downloads": 21448,
+      "likes": 68,
+      "pipeline_tag": "text-generation",
+      "lastModified": "2026-05-19T23:43:59.000Z",
+      "numParameters": 9197093888,
+      "repoType": "model"
+    },
+    {
+      "author": "ScenemaAI",
+      "id": "ScenemaAI/scenema-audio",
+      "downloads": 441,
+      "likes": 122,
+      "pipeline_tag": "text-to-speech",
+      "lastModified": "2026-05-14T03:19:58.000Z",
+      "numParameters": null,
+      "repoType": "model"
+    },
+    {
+      "author": "nvidia",
+      "id": "nvidia/Nemotron-Labs-Diffusion-14B",
+      "downloads": 1992,
+      "likes": 60,
+      "pipeline_tag": "text-generation",
+      "lastModified": "2026-05-19T18:52:46.000Z",
+      "numParameters": 13506073600,
+      "repoType": "model"
+    }
+  ],
+  "fetchedAt": "2026-05-22T21:01:59.272Z"
+}

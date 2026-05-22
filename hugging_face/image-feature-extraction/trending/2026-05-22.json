@@ -1,0 +1,309 @@
+{
+  "category": "image-feature-extraction",
+  "sort": "trending",
+  "totalItems": 1152,
+  "fetchedItems": 30,
+  "models": [
+    {
+      "author": "facebook",
+      "id": "facebook/dinov3-vitl16-pretrain-lvd1689m",
+      "downloads": 737862,
+      "likes": 286,
+      "pipeline_tag": "image-feature-extraction",
+      "lastModified": "2025-08-19T09:00:52.000Z",
+      "numParameters": 303129600,
+      "repoType": "model"
+    },
+    {
+      "author": "MahmoodLab",
+      "id": "MahmoodLab/CONCH",
+      "downloads": 67022,
+      "likes": 167,
+      "pipeline_tag": "image-feature-extraction",
+      "lastModified": "2024-05-05T06:05:43.000Z",
+      "numParameters": null,
+      "repoType": "model"
+    },
+    {
+      "author": "TTPlanet",
+      "id": "TTPlanet/TTPLanet_SDXL_Controlnet_Tile_Realistic",
+      "downloads": 4797,
+      "likes": 271,
+      "pipeline_tag": "image-feature-extraction",
+      "lastModified": "2024-06-08T17:20:45.000Z",
+      "numParameters": null,
+      "repoType": "model"
+    },
+    {
+      "author": "MahmoodLab",
+      "id": "MahmoodLab/UNI",
+      "downloads": 41184,
+      "likes": 305,
+      "pipeline_tag": "image-feature-extraction",
+      "lastModified": "2025-03-06T22:57:31.000Z",
+      "numParameters": null,
+      "repoType": "model"
+    },
+    {
+      "author": "facebook",
+      "id": "facebook/dinov3-vitb16-pretrain-lvd1689m",
+      "downloads": 699508,
+      "likes": 135,
+      "pipeline_tag": "image-feature-extraction",
+      "lastModified": "2025-08-19T09:00:44.000Z",
+      "numParameters": 85660416,
+      "repoType": "model"
+    },
+    {
+      "author": "rnagabh",
+      "id": "rnagabh/gemma4-vision-encoder",
+      "downloads": 598,
+      "likes": 6,
+      "pipeline_tag": "image-feature-extraction",
+      "lastModified": "2026-04-03T20:21:44.000Z",
+      "numParameters": 569550384,
+      "repoType": "model"
+    },
+    {
+      "author": "birder-project",
+      "id": "birder-project/vit_reg1_s14_ls_dino-v2-dist-bio",
+      "downloads": 114,
+      "likes": 3,
+      "pipeline_tag": "image-feature-extraction",
+      "lastModified": "2026-05-22T20:09:06.000Z",
+      "numParameters": null,
+      "repoType": "model"
+    },
+    {
+      "author": "owkin",
+      "id": "owkin/phikon-v2",
+      "downloads": 129525,
+      "likes": 38,
+      "pipeline_tag": "image-feature-extraction",
+      "lastModified": "2026-01-19T08:58:52.000Z",
+      "numParameters": 303351808,
+      "repoType": "model"
+    },
+    {
+      "author": "prov-gigapath",
+      "id": "prov-gigapath/prov-gigapath",
+      "downloads": 55774,
+      "likes": 169,
+      "pipeline_tag": "image-feature-extraction",
+      "lastModified": "2025-04-21T17:24:43.000Z",
+      "numParameters": null,
+      "repoType": "model"
+    },
+    {
+      "author": "paige-ai",
+      "id": "paige-ai/Virchow2",
+      "downloads": 83580,
+      "likes": 125,
+      "pipeline_tag": "image-feature-extraction",
+      "lastModified": "2024-10-26T17:29:19.000Z",
+      "numParameters": null,
+      "repoType": "model"
+    },
+    {
+      "author": "MahmoodLab",
+      "id": "MahmoodLab/conchv1_5",
+      "downloads": 0,
+      "likes": 23,
+      "pipeline_tag": "image-feature-extraction",
+      "lastModified": "2025-03-17T13:37:36.000Z",
+      "numParameters": null,
+      "repoType": "model"
+    },
+    {
+      "author": "timm",
+      "id": "timm/vit_base_patch16_dinov3.lvd1689m",
+      "downloads": 149305,
+      "likes": 8,
+      "pipeline_tag": "image-feature-extraction",
+      "lastModified": "2025-09-24T22:41:56.000Z",
+      "numParameters": null,
+      "repoType": "model"
+    },
+    {
+      "author": "camenduru",
+      "id": "camenduru/dinov3-vitl16-pretrain-lvd1689m",
+      "downloads": 145340,
+      "likes": 6,
+      "pipeline_tag": "image-feature-extraction",
+      "lastModified": "2025-12-17T08:20:02.000Z",
+      "numParameters": 303129600,
+      "repoType": "model"
+    },
+    {
+      "author": "birder-project",
+      "id": "birder-project/vit_reg4_so150m_p14_ls_dino-v2-bio",
+      "downloads": 3459,
+      "likes": 10,
+      "pipeline_tag": "image-feature-extraction",
+      "lastModified": "2026-05-22T20:09:17.000Z",
+      "numParameters": null,
+      "repoType": "model"
+    },
+    {
+      "author": "google",
+      "id": "google/vit-base-patch16-224-in21k",
+      "downloads": 2222217,
+      "likes": 407,
+      "pipeline_tag": "image-feature-extraction",
+      "lastModified": "2024-02-05T16:37:39.000Z",
+      "numParameters": 86389248,
+      "repoType": "model"
+    },
+    {
+      "author": "timm",
+      "id": "timm/eva02_base_patch14_224.mim_in22k",
+      "downloads": 8725,
+      "likes": 7,
+      "pipeline_tag": "image-feature-extraction",
+      "lastModified": "2025-01-21T21:36:49.000Z",
+      "numParameters": null,
+      "repoType": "model"
+    },
+    {
+      "author": "nvidia",
+      "id": "nvidia/RADIO",
+      "downloads": 304,
+      "likes": 43,
+      "pipeline_tag": "image-feature-extraction",
+      "lastModified": "2025-07-04T11:02:48.000Z",
+      "numParameters": 651983368,
+      "repoType": "model"
+    },
+    {
+      "author": "paige-ai",
+      "id": "paige-ai/Virchow",
+      "downloads": 12066,
+      "likes": 74,
+      "pipeline_tag": "image-feature-extraction",
+      "lastModified": "2024-09-03T20:21:08.000Z",
+      "numParameters": null,
+      "repoType": "model"
+    },
+    {
+      "author": "MahmoodLab",
+      "id": "MahmoodLab/TITAN",
+      "downloads": 94264,
+      "likes": 85,
+      "pipeline_tag": "image-feature-extraction",
+      "lastModified": "2025-11-11T12:45:40.000Z",
+      "numParameters": 158866176,
+      "repoType": "model"
+    },
+    {
+      "author": "bioptimus",
+      "id": "bioptimus/H-optimus-1",
+      "downloads": 13622,
+      "likes": 44,
+      "pipeline_tag": "image-feature-extraction",
+      "lastModified": "2025-12-12T13:01:38.000Z",
+      "numParameters": null,
+      "repoType": "model"
+    },
+    {
+      "author": "timm",
+      "id": "timm/vit_base_patch16_siglip_512.v2_webli",
+      "downloads": 18799,
+      "likes": 4,
+      "pipeline_tag": "image-feature-extraction",
+      "lastModified": "2025-02-21T20:10:46.000Z",
+      "numParameters": null,
+      "repoType": "model"
+    },
+    {
+      "author": "bioptimus",
+      "id": "bioptimus/H0-mini",
+      "downloads": 71252,
+      "likes": 13,
+      "pipeline_tag": "image-feature-extraction",
+      "lastModified": "2025-12-12T13:02:46.000Z",
+      "numParameters": null,
+      "repoType": "model"
+    },
+    {
+      "author": "kaiko-ai",
+      "id": "kaiko-ai/midnight",
+      "downloads": 8497,
+      "likes": 18,
+      "pipeline_tag": "image-feature-extraction",
+      "lastModified": "2025-04-15T12:13:21.000Z",
+      "numParameters": 1136480768,
+      "repoType": "model"
+    },
+    {
+      "author": "bytedance-research",
+      "id": "bytedance-research/LVFace",
+      "downloads": 2092,
+      "likes": 29,
+      "pipeline_tag": "image-feature-extraction",
+      "lastModified": "2025-08-21T11:36:33.000Z",
+      "numParameters": null,
+      "repoType": "model"
+    },
+    {
+      "author": "PIA-SPACE-LAB",
+      "id": "PIA-SPACE-LAB/dinov3-vitl-pretrain-lvd1689m",
+      "downloads": 18662,
+      "likes": 4,
+      "pipeline_tag": "image-feature-extraction",
+      "lastModified": "2025-11-10T07:03:48.000Z",
+      "numParameters": 303129600,
+      "repoType": "model"
+    },
+    {
+      "author": "timm",
+      "id": "timm/vit_large_patch16_dinov3.lvd1689m",
+      "downloads": 171266,
+      "likes": 1,
+      "pipeline_tag": "image-feature-extraction",
+      "lastModified": "2025-09-24T22:44:00.000Z",
+      "numParameters": null,
+      "repoType": "model"
+    },
+    {
+      "author": "timm",
+      "id": "timm/vit_large_patch16_dinov3.sat493m",
+      "downloads": 6888,
+      "likes": 3,
+      "pipeline_tag": "image-feature-extraction",
+      "lastModified": "2025-09-24T22:44:16.000Z",
+      "numParameters": null,
+      "repoType": "model"
+    },
+    {
+      "author": "timm",
+      "id": "timm/vit_small_patch16_dinov3.lvd1689m",
+      "downloads": 135224,
+      "likes": 6,
+      "pipeline_tag": "image-feature-extraction",
+      "lastModified": "2025-09-24T22:44:54.000Z",
+      "numParameters": null,
+      "repoType": "model"
+    },
+    {
+      "author": "mlinslab",
+      "id": "mlinslab/neurovfm-encoder",
+      "downloads": 1844,
+      "likes": 4,
+      "pipeline_tag": "image-feature-extraction",
+      "lastModified": "2025-12-06T18:44:39.000Z",
+      "numParameters": null,
+      "repoType": "model"
+    },
+    {
+      "author": "srpone",
+      "id": "srpone/gr-lite",
+      "downloads": 212,
+      "likes": 4,
+      "pipeline_tag": "image-feature-extraction",
+      "lastModified": "2026-05-11T06:10:19.000Z",
+      "numParameters": null,
+      "repoType": "model"
+    }
+  ],
+  "fetchedAt": "2026-05-22T21:02:29.446Z"
+}
