@@ -1,0 +1,309 @@
+{
+  "category": "image-classification",
+  "sort": "trending",
+  "totalItems": 26898,
+  "fetchedItems": 30,
+  "models": [
+    {
+      "author": "Falconsai",
+      "id": "Falconsai/nsfw_image_detection",
+      "downloads": 8438598,
+      "likes": 1077,
+      "pipeline_tag": "image-classification",
+      "lastModified": "2025-04-06T13:42:07.000Z",
+      "numParameters": null,
+      "repoType": "model"
+    },
+    {
+      "author": "pixai-labs",
+      "id": "pixai-labs/pixai-tagger-v0.9",
+      "downloads": 0,
+      "likes": 159,
+      "pipeline_tag": "image-classification",
+      "lastModified": "2025-09-11T09:38:59.000Z",
+      "numParameters": null,
+      "repoType": "model"
+    },
+    {
+      "author": "Grio43",
+      "id": "Grio43/OppaiOracle",
+      "downloads": 196,
+      "likes": 33,
+      "pipeline_tag": "image-classification",
+      "lastModified": "2026-05-10T01:13:14.000Z",
+      "numParameters": null,
+      "repoType": "model"
+    },
+    {
+      "author": "google",
+      "id": "google/vit-base-patch16-224",
+      "downloads": 4842499,
+      "likes": 963,
+      "pipeline_tag": "image-classification",
+      "lastModified": "2023-09-05T15:27:12.000Z",
+      "numParameters": 86567656,
+      "repoType": "model"
+    },
+    {
+      "author": "timm",
+      "id": "timm/mobilenetv3_small_100.lamb_in1k",
+      "downloads": 12770723,
+      "likes": 73,
+      "pipeline_tag": "image-classification",
+      "lastModified": "2025-10-19T16:12:11.000Z",
+      "numParameters": null,
+      "repoType": "model"
+    },
+    {
+      "author": "animetimm",
+      "id": "animetimm/convnextv2_huge.dbv4-full",
+      "downloads": 888,
+      "likes": 22,
+      "pipeline_tag": "image-classification",
+      "lastModified": "2025-10-22T14:54:23.000Z",
+      "numParameters": null,
+      "repoType": "model"
+    },
+    {
+      "author": "djramirezp",
+      "id": "djramirezp/vit-face-classification-quiz2",
+      "downloads": 30,
+      "likes": 2,
+      "pipeline_tag": "image-classification",
+      "lastModified": "2026-05-21T00:08:45.000Z",
+      "numParameters": 85800194,
+      "repoType": "model"
+    },
+    {
+      "author": "microsoft",
+      "id": "microsoft/resnet-18",
+      "downloads": 123147,
+      "likes": 68,
+      "pipeline_tag": "image-classification",
+      "lastModified": "2024-04-08T11:06:50.000Z",
+      "numParameters": 11699112,
+      "repoType": "model"
+    },
+    {
+      "author": "keremberke",
+      "id": "keremberke/yolov8m-scene-classification",
+      "downloads": 932,
+      "likes": 14,
+      "pipeline_tag": "image-classification",
+      "lastModified": "2023-02-22T12:59:54.000Z",
+      "numParameters": null,
+      "repoType": "model"
+    },
+    {
+      "author": "timm",
+      "id": "timm/xception41.tf_in1k",
+      "downloads": 3470,
+      "likes": 2,
+      "pipeline_tag": "image-classification",
+      "lastModified": "2025-01-21T18:04:55.000Z",
+      "numParameters": null,
+      "repoType": "model"
+    },
+    {
+      "author": "timm",
+      "id": "timm/resnest101e.in1k",
+      "downloads": 4617,
+      "likes": 2,
+      "pipeline_tag": "image-classification",
+      "lastModified": "2025-01-21T18:05:41.000Z",
+      "numParameters": null,
+      "repoType": "model"
+    },
+    {
+      "author": "timm",
+      "id": "timm/eva02_large_patch14_clip_336.merged2b_ft_inat21",
+      "downloads": 1833,
+      "likes": 13,
+      "pipeline_tag": "image-classification",
+      "lastModified": "2025-01-21T21:12:01.000Z",
+      "numParameters": null,
+      "repoType": "model"
+    },
+    {
+      "author": "deepghs",
+      "id": "deepghs/anime_ch_hair_color",
+      "downloads": 0,
+      "likes": 2,
+      "pipeline_tag": "image-classification",
+      "lastModified": "2023-06-21T16:43:50.000Z",
+      "numParameters": null,
+      "repoType": "model"
+    },
+    {
+      "author": "dima806",
+      "id": "dima806/facial_emotions_image_detection",
+      "downloads": 61042,
+      "likes": 124,
+      "pipeline_tag": "image-classification",
+      "lastModified": "2024-10-19T10:09:54.000Z",
+      "numParameters": 85804039,
+      "repoType": "model"
+    },
+    {
+      "author": "enzostvs",
+      "id": "enzostvs/hair-color",
+      "downloads": 113,
+      "likes": 11,
+      "pipeline_tag": "image-classification",
+      "lastModified": "2023-11-17T23:40:50.000Z",
+      "numParameters": 85802501,
+      "repoType": "model"
+    },
+    {
+      "author": "dima806",
+      "id": "dima806/weather_types_image_detection",
+      "downloads": 30,
+      "likes": 2,
+      "pipeline_tag": "image-classification",
+      "lastModified": "2024-10-19T10:39:24.000Z",
+      "numParameters": 85807115,
+      "repoType": "model"
+    },
+    {
+      "author": "londe33",
+      "id": "londe33/hair_v02",
+      "downloads": 104,
+      "likes": 1,
+      "pipeline_tag": "image-classification",
+      "lastModified": "2023-12-24T17:36:19.000Z",
+      "numParameters": 85801732,
+      "repoType": "model"
+    },
+    {
+      "author": "AdamCodd",
+      "id": "AdamCodd/vit-base-nsfw-detector",
+      "downloads": 1304242,
+      "likes": 76,
+      "pipeline_tag": "image-classification",
+      "lastModified": "2024-12-03T14:14:31.000Z",
+      "numParameters": 86092034,
+      "repoType": "model"
+    },
+    {
+      "author": "Diginsa",
+      "id": "Diginsa/Plant-Disease-Detection-Project",
+      "downloads": 4014,
+      "likes": 8,
+      "pipeline_tag": "image-classification",
+      "lastModified": "2024-09-05T14:12:26.000Z",
+      "numParameters": 2306662,
+      "repoType": "model"
+    },
+    {
+      "author": "Hemg",
+      "id": "Hemg/Indian-sign-language-classification",
+      "downloads": 49,
+      "likes": 6,
+      "pipeline_tag": "image-classification",
+      "lastModified": "2024-03-15T12:12:59.000Z",
+      "numParameters": 85825571,
+      "repoType": "model"
+    },
+    {
+      "author": "pszemraj",
+      "id": "pszemraj/convnextv2-nano-22k-384-boulderspot",
+      "downloads": 6,
+      "likes": 2,
+      "pipeline_tag": "image-classification",
+      "lastModified": "2025-12-29T03:53:08.000Z",
+      "numParameters": 14984082,
+      "repoType": "model"
+    },
+    {
+      "author": "prithivMLmods",
+      "id": "prithivMLmods/Indian-Western-Food-34",
+      "downloads": 25,
+      "likes": 1,
+      "pipeline_tag": "image-classification",
+      "lastModified": "2025-03-28T09:03:45.000Z",
+      "numParameters": 92910370,
+      "repoType": "model"
+    },
+    {
+      "author": "prithivMLmods",
+      "id": "prithivMLmods/GiD-Land-Cover-Classification",
+      "downloads": 31,
+      "likes": 1,
+      "pipeline_tag": "image-classification",
+      "lastModified": "2025-05-09T05:51:50.000Z",
+      "numParameters": 92895759,
+      "repoType": "model"
+    },
+    {
+      "author": "Jayway0910",
+      "id": "Jayway0910/clip-lora-multilabel",
+      "downloads": 0,
+      "likes": 1,
+      "pipeline_tag": "image-classification",
+      "lastModified": "2025-05-24T07:28:52.000Z",
+      "numParameters": null,
+      "repoType": "model"
+    },
+    {
+      "author": "animetimm",
+      "id": "animetimm/vit_base_patch16_224.dbv4-full",
+      "downloads": 0,
+      "likes": 2,
+      "pipeline_tag": "image-classification",
+      "lastModified": "2025-07-14T04:50:40.000Z",
+      "numParameters": null,
+      "repoType": "model"
+    },
+    {
+      "author": "BinhQuocNguyen",
+      "id": "BinhQuocNguyen/food-recognition-model",
+      "downloads": 171,
+      "likes": 19,
+      "pipeline_tag": "image-classification",
+      "lastModified": "2025-09-13T18:45:04.000Z",
+      "numParameters": null,
+      "repoType": "model"
+    },
+    {
+      "author": "AIOmarRehan",
+      "id": "AIOmarRehan/CNN-DenoiseU-Net",
+      "downloads": 0,
+      "likes": 3,
+      "pipeline_tag": "image-classification",
+      "lastModified": "2026-03-19T11:59:37.000Z",
+      "numParameters": null,
+      "repoType": "model"
+    },
+    {
+      "author": "Jordo23",
+      "id": "Jordo23/vehicle-classifier",
+      "downloads": 0,
+      "likes": 5,
+      "pipeline_tag": "image-classification",
+      "lastModified": "2025-12-14T04:52:47.000Z",
+      "numParameters": null,
+      "repoType": "model"
+    },
+    {
+      "author": "DannyLuna",
+      "id": "DannyLuna/recaptcha-classification-57k",
+      "downloads": 0,
+      "likes": 5,
+      "pipeline_tag": "image-classification",
+      "lastModified": "2026-01-25T16:08:24.000Z",
+      "numParameters": null,
+      "repoType": "model"
+    },
+    {
+      "author": "Bombek1",
+      "id": "Bombek1/ai-image-detector-siglip-dinov2",
+      "downloads": 152,
+      "likes": 8,
+      "pipeline_tag": "image-classification",
+      "lastModified": "2026-01-10T12:28:49.000Z",
+      "numParameters": null,
+      "repoType": "model"
+    }
+  ],
+  "fetchedAt": "2026-05-23T20:38:09.464Z"
+}

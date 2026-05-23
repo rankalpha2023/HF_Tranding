@@ -1,0 +1,309 @@
+{
+  "category": "image-to-video",
+  "sort": "trending",
+  "totalItems": 1061,
+  "fetchedItems": 30,
+  "models": [
+    {
+      "author": "Efficient-Large-Model",
+      "id": "Efficient-Large-Model/SANA-WM_bidirectional",
+      "downloads": 0,
+      "likes": 91,
+      "pipeline_tag": "image-to-video",
+      "lastModified": "2026-05-19T06:57:12.000Z",
+      "numParameters": null,
+      "repoType": "model"
+    },
+    {
+      "author": "Lightricks",
+      "id": "Lightricks/LTX-2.3",
+      "downloads": 2159379,
+      "likes": 1248,
+      "pipeline_tag": "image-to-video",
+      "lastModified": "2026-04-13T14:07:43.000Z",
+      "numParameters": null,
+      "repoType": "model"
+    },
+    {
+      "author": "RuneXX",
+      "id": "RuneXX/LTX-2.3-Workflows",
+      "downloads": 0,
+      "likes": 615,
+      "pipeline_tag": "image-to-video",
+      "lastModified": "2026-05-22T08:16:15.000Z",
+      "numParameters": null,
+      "repoType": "model"
+    },
+    {
+      "author": "TenStrip",
+      "id": "TenStrip/LTX2.3-10Eros",
+      "downloads": 185698,
+      "likes": 307,
+      "pipeline_tag": "image-to-video",
+      "lastModified": "2026-05-11T00:15:25.000Z",
+      "numParameters": null,
+      "repoType": "model"
+    },
+    {
+      "author": "vantagewithai",
+      "id": "vantagewithai/LTX2.3-10Eros-GGUF",
+      "downloads": 94482,
+      "likes": 88,
+      "pipeline_tag": "image-to-video",
+      "lastModified": "2026-05-08T18:31:07.000Z",
+      "numParameters": 21005004544,
+      "repoType": "model"
+    },
+    {
+      "author": "vantagewithai",
+      "id": "vantagewithai/Sulphur-2-Base-GGUF",
+      "downloads": 82938,
+      "likes": 66,
+      "pipeline_tag": "image-to-video",
+      "lastModified": "2026-05-06T14:22:57.000Z",
+      "numParameters": 21005004544,
+      "repoType": "model"
+    },
+    {
+      "author": "unsloth",
+      "id": "unsloth/LTX-2.3-GGUF",
+      "downloads": 286029,
+      "likes": 413,
+      "pipeline_tag": "image-to-video",
+      "lastModified": "2026-04-20T01:59:13.000Z",
+      "numParameters": 21005004544,
+      "repoType": "model"
+    },
+    {
+      "author": "Phr00t",
+      "id": "Phr00t/WAN2.2-14B-Rapid-AllInOne",
+      "downloads": 0,
+      "likes": 1577,
+      "pipeline_tag": "image-to-video",
+      "lastModified": "2026-04-06T05:31:09.000Z",
+      "numParameters": null,
+      "repoType": "model"
+    },
+    {
+      "author": "SyFeee",
+      "id": "SyFeee/LTX2.3-Dual-Character-en",
+      "downloads": 0,
+      "likes": 11,
+      "pipeline_tag": "image-to-video",
+      "lastModified": "2026-05-21T06:57:29.000Z",
+      "numParameters": null,
+      "repoType": "model"
+    },
+    {
+      "author": "WarmBloodAban",
+      "id": "WarmBloodAban/Singularity_LTX-2.3_OmniCine_Preview0.1",
+      "downloads": 3301,
+      "likes": 35,
+      "pipeline_tag": "image-to-video",
+      "lastModified": "2026-05-09T18:26:39.000Z",
+      "numParameters": null,
+      "repoType": "model"
+    },
+    {
+      "author": "WepeNerd",
+      "id": "WepeNerd/Obscura_Remova",
+      "downloads": 1053,
+      "likes": 32,
+      "pipeline_tag": "image-to-video",
+      "lastModified": "2026-05-03T14:00:00.000Z",
+      "numParameters": null,
+      "repoType": "model"
+    },
+    {
+      "author": "Lora-Daddy",
+      "id": "Lora-Daddy/LTX2.3-cum-on-face-transition",
+      "downloads": 0,
+      "likes": 8,
+      "pipeline_tag": "image-to-video",
+      "lastModified": "2026-05-19T13:07:28.000Z",
+      "numParameters": null,
+      "repoType": "model"
+    },
+    {
+      "author": "Lightricks",
+      "id": "Lightricks/LTX-Video",
+      "downloads": 399940,
+      "likes": 2187,
+      "pipeline_tag": "image-to-video",
+      "lastModified": "2025-07-16T14:32:35.000Z",
+      "numParameters": null,
+      "repoType": "model"
+    },
+    {
+      "author": "Lightricks",
+      "id": "Lightricks/LTX-2",
+      "downloads": 597659,
+      "likes": 1719,
+      "pipeline_tag": "image-to-video",
+      "lastModified": "2026-03-02T12:38:08.000Z",
+      "numParameters": null,
+      "repoType": "model"
+    },
+    {
+      "author": "Alissonerdx",
+      "id": "Alissonerdx/BFS-Best-Face-Swap-Video",
+      "downloads": 193,
+      "likes": 306,
+      "pipeline_tag": "image-to-video",
+      "lastModified": "2026-03-27T13:35:04.000Z",
+      "numParameters": null,
+      "repoType": "model"
+    },
+    {
+      "author": "joyfox",
+      "id": "joyfox/LTX-2.3-Transition-LORA",
+      "downloads": 36949,
+      "likes": 110,
+      "pipeline_tag": "image-to-video",
+      "lastModified": "2026-03-30T03:28:58.000Z",
+      "numParameters": null,
+      "repoType": "model"
+    },
+    {
+      "author": "Abiray",
+      "id": "Abiray/LTX2.3-10Eros-GGUF",
+      "downloads": 7676,
+      "likes": 30,
+      "pipeline_tag": "image-to-video",
+      "lastModified": "2026-05-20T09:24:28.000Z",
+      "numParameters": 21005004544,
+      "repoType": "model"
+    },
+    {
+      "author": "Lightricks",
+      "id": "Lightricks/LTX-2.3-fp8",
+      "downloads": 970820,
+      "likes": 103,
+      "pipeline_tag": "image-to-video",
+      "lastModified": "2026-03-16T12:32:48.000Z",
+      "numParameters": null,
+      "repoType": "model"
+    },
+    {
+      "author": "GD-ML",
+      "id": "GD-ML/DreamX-World-5B-Cam",
+      "downloads": 538,
+      "likes": 16,
+      "pipeline_tag": "image-to-video",
+      "lastModified": "2026-05-22T03:37:38.000Z",
+      "numParameters": null,
+      "repoType": "model"
+    },
+    {
+      "author": "stabilityai",
+      "id": "stabilityai/stable-video-diffusion-img2vid-xt",
+      "downloads": 273775,
+      "likes": 3297,
+      "pipeline_tag": "image-to-video",
+      "lastModified": "2024-07-10T11:43:18.000Z",
+      "numParameters": null,
+      "repoType": "model"
+    },
+    {
+      "author": "KlingTeam",
+      "id": "KlingTeam/LivePortrait",
+      "downloads": 6261,
+      "likes": 455,
+      "pipeline_tag": "image-to-video",
+      "lastModified": "2025-03-03T16:17:36.000Z",
+      "numParameters": null,
+      "repoType": "model"
+    },
+    {
+      "author": "nvidia",
+      "id": "nvidia/Cosmos-Predict2-2B-Video2World",
+      "downloads": 39672,
+      "likes": 59,
+      "pipeline_tag": "image-to-video",
+      "lastModified": "2025-07-23T21:58:40.000Z",
+      "numParameters": null,
+      "repoType": "model"
+    },
+    {
+      "author": "QuantStack",
+      "id": "QuantStack/Wan2.2-I2V-A14B-GGUF",
+      "downloads": 223616,
+      "likes": 333,
+      "pipeline_tag": "image-to-video",
+      "lastModified": "2025-07-29T13:04:00.000Z",
+      "numParameters": 14288901184,
+      "repoType": "model"
+    },
+    {
+      "author": "TencentARC",
+      "id": "TencentARC/ToonComposer",
+      "downloads": 0,
+      "likes": 46,
+      "pipeline_tag": "image-to-video",
+      "lastModified": "2026-03-05T08:24:50.000Z",
+      "numParameters": null,
+      "repoType": "model"
+    },
+    {
+      "author": "Lightricks",
+      "id": "Lightricks/LTX-2.3-nvfp4",
+      "downloads": 51227,
+      "likes": 79,
+      "pipeline_tag": "image-to-video",
+      "lastModified": "2026-03-17T22:31:23.000Z",
+      "numParameters": null,
+      "repoType": "model"
+    },
+    {
+      "author": "weiqingXiao",
+      "id": "weiqingXiao/Relit-LiVE",
+      "downloads": 0,
+      "likes": 6,
+      "pipeline_tag": "image-to-video",
+      "lastModified": "2026-05-08T14:31:19.000Z",
+      "numParameters": null,
+      "repoType": "model"
+    },
+    {
+      "author": "StanfordNeuroAILab",
+      "id": "StanfordNeuroAILab/psi0_5",
+      "downloads": 333,
+      "likes": 3,
+      "pipeline_tag": "image-to-video",
+      "lastModified": "2026-05-22T01:57:30.000Z",
+      "numParameters": null,
+      "repoType": "model"
+    },
+    {
+      "author": "Lora-Daddy",
+      "id": "Lora-Daddy/ltx2.3-jumpcut-titjob",
+      "downloads": 0,
+      "likes": 3,
+      "pipeline_tag": "image-to-video",
+      "lastModified": "2026-05-18T06:30:27.000Z",
+      "numParameters": null,
+      "repoType": "model"
+    },
+    {
+      "author": "osmapi",
+      "id": "osmapi/SANA-WM-Bidirectional-on-Apple-Silicon",
+      "downloads": 0,
+      "likes": 3,
+      "pipeline_tag": "image-to-video",
+      "lastModified": "2026-05-20T10:07:41.000Z",
+      "numParameters": null,
+      "repoType": "model"
+    },
+    {
+      "author": "stabilityai",
+      "id": "stabilityai/stable-video-diffusion-img2vid",
+      "downloads": 53988,
+      "likes": 1032,
+      "pipeline_tag": "image-to-video",
+      "lastModified": "2024-07-10T11:41:17.000Z",
+      "numParameters": null,
+      "repoType": "model"
+    }
+  ],
+  "fetchedAt": "2026-05-23T20:38:27.176Z"
+}

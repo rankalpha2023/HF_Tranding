@@ -1,0 +1,309 @@
+{
+  "category": "audio-to-audio",
+  "sort": "trending",
+  "totalItems": 1120,
+  "fetchedItems": 30,
+  "models": [
+    {
+      "author": "LiquidAI",
+      "id": "LiquidAI/LFM2.5-Audio-1.5B",
+      "downloads": 1012,
+      "likes": 407,
+      "pipeline_tag": "audio-to-audio",
+      "lastModified": "2026-03-30T14:43:52.000Z",
+      "numParameters": 1470308496,
+      "repoType": "model"
+    },
+    {
+      "author": "nvidia",
+      "id": "nvidia/personaplex-7b-v1",
+      "downloads": 408471,
+      "likes": 2507,
+      "pipeline_tag": "audio-to-audio",
+      "lastModified": "2026-03-02T18:03:29.000Z",
+      "numParameters": null,
+      "repoType": "model"
+    },
+    {
+      "author": "nvidia",
+      "id": "nvidia/bigvgan_v2_44khz_128band_512x",
+      "downloads": 711825,
+      "likes": 73,
+      "pipeline_tag": "audio-to-audio",
+      "lastModified": "2024-09-05T03:35:39.000Z",
+      "numParameters": null,
+      "repoType": "model"
+    },
+    {
+      "author": "inclusionAI",
+      "id": "inclusionAI/Ming-omni-tts-tokenizer-12Hz",
+      "downloads": 60,
+      "likes": 11,
+      "pipeline_tag": "audio-to-audio",
+      "lastModified": "2026-02-25T08:05:03.000Z",
+      "numParameters": 780389010,
+      "repoType": "model"
+    },
+    {
+      "author": "iBoostAI",
+      "id": "iBoostAI/Demucs-v4",
+      "downloads": 0,
+      "likes": 4,
+      "pipeline_tag": "audio-to-audio",
+      "lastModified": "2026-02-26T18:39:16.000Z",
+      "numParameters": null,
+      "repoType": "model"
+    },
+    {
+      "author": "tencent",
+      "id": "tencent/Covo-Audio-Chat",
+      "downloads": 5815,
+      "likes": 94,
+      "pipeline_tag": "audio-to-audio",
+      "lastModified": "2026-03-16T09:59:16.000Z",
+      "numParameters": 8402417920,
+      "repoType": "model"
+    },
+    {
+      "author": "kyutai",
+      "id": "kyutai/moshika-rag-pytorch-bf16",
+      "downloads": 673,
+      "likes": 5,
+      "pipeline_tag": "audio-to-audio",
+      "lastModified": "2026-04-17T07:07:35.000Z",
+      "numParameters": null,
+      "repoType": "model"
+    },
+    {
+      "author": "KRAFTON",
+      "id": "KRAFTON/Raon-SpeechChat-9B",
+      "downloads": 149,
+      "likes": 33,
+      "pipeline_tag": "audio-to-audio",
+      "lastModified": "2026-04-13T10:20:51.000Z",
+      "numParameters": 9701561153,
+      "repoType": "model"
+    },
+    {
+      "author": "LocalAI-io",
+      "id": "LocalAI-io/LocalVQE",
+      "downloads": 2268,
+      "likes": 34,
+      "pipeline_tag": "audio-to-audio",
+      "lastModified": "2026-05-14T14:03:11.000Z",
+      "numParameters": 1289019,
+      "repoType": "model"
+    },
+    {
+      "author": "HirumiM",
+      "id": "HirumiM/Genshin_RVC-rmvpe",
+      "downloads": 0,
+      "likes": 5,
+      "pipeline_tag": "audio-to-audio",
+      "lastModified": "2023-09-05T04:41:29.000Z",
+      "numParameters": null,
+      "repoType": "model"
+    },
+    {
+      "author": "IAHispano",
+      "id": "IAHispano/Applio",
+      "downloads": 115,
+      "likes": 171,
+      "pipeline_tag": "audio-to-audio",
+      "lastModified": "2026-02-25T23:33:36.000Z",
+      "numParameters": null,
+      "repoType": "model"
+    },
+    {
+      "author": "Plachta",
+      "id": "Plachta/Seed-VC",
+      "downloads": 0,
+      "likes": 78,
+      "pipeline_tag": "audio-to-audio",
+      "lastModified": "2025-04-07T13:07:56.000Z",
+      "numParameters": null,
+      "repoType": "model"
+    },
+    {
+      "author": "LiquidAI",
+      "id": "LiquidAI/LFM2-Audio-1.5B",
+      "downloads": 268,
+      "likes": 347,
+      "pipeline_tag": "audio-to-audio",
+      "lastModified": "2026-03-27T16:11:29.000Z",
+      "numParameters": 1470308496,
+      "repoType": "model"
+    },
+    {
+      "author": "HiDolen",
+      "id": "HiDolen/Mini-BS-RoFormer-18M",
+      "downloads": 379,
+      "likes": 5,
+      "pipeline_tag": "audio-to-audio",
+      "lastModified": "2025-12-29T06:05:59.000Z",
+      "numParameters": 17879844,
+      "repoType": "model"
+    },
+    {
+      "author": "SPRINGLab",
+      "id": "SPRINGLab/EZ-VC",
+      "downloads": 116,
+      "likes": 7,
+      "pipeline_tag": "audio-to-audio",
+      "lastModified": "2025-12-02T07:20:17.000Z",
+      "numParameters": null,
+      "repoType": "model"
+    },
+    {
+      "author": "LiangJiaHeStudio",
+      "id": "LiangJiaHeStudio/Xi_Emperor_FullPower_RVC",
+      "downloads": 0,
+      "likes": 6,
+      "pipeline_tag": "audio-to-audio",
+      "lastModified": "2025-12-10T16:25:49.000Z",
+      "numParameters": null,
+      "repoType": "model"
+    },
+    {
+      "author": "cisco-ai",
+      "id": "cisco-ai/pase",
+      "downloads": 0,
+      "likes": 3,
+      "pipeline_tag": "audio-to-audio",
+      "lastModified": "2026-04-08T10:59:31.000Z",
+      "numParameters": null,
+      "repoType": "model"
+    },
+    {
+      "author": "HiDolen",
+      "id": "HiDolen/Mini-BS-RoFormer-V2-46.8M",
+      "downloads": 75,
+      "likes": 5,
+      "pipeline_tag": "audio-to-audio",
+      "lastModified": "2025-12-30T02:39:18.000Z",
+      "numParameters": 46838324,
+      "repoType": "model"
+    },
+    {
+      "author": "drbaph",
+      "id": "drbaph/AudioSR",
+      "downloads": 0,
+      "likes": 24,
+      "pipeline_tag": "audio-to-audio",
+      "lastModified": "2026-01-27T21:29:34.000Z",
+      "numParameters": null,
+      "repoType": "model"
+    },
+    {
+      "author": "mlx-community",
+      "id": "mlx-community/LFM2.5-Audio-1.5B-4bit",
+      "downloads": 42,
+      "likes": 2,
+      "pipeline_tag": "audio-to-audio",
+      "lastModified": "2026-01-15T23:09:05.000Z",
+      "numParameters": 383147648,
+      "repoType": "model"
+    },
+    {
+      "author": "JoshTalksAI",
+      "id": "JoshTalksAI/Human-1",
+      "downloads": 94,
+      "likes": 3,
+      "pipeline_tag": "audio-to-audio",
+      "lastModified": "2026-04-28T08:06:51.000Z",
+      "numParameters": 7687729152,
+      "repoType": "model"
+    },
+    {
+      "author": "nvidia",
+      "id": "nvidia/RE-USE",
+      "downloads": 6267,
+      "likes": 76,
+      "pipeline_tag": "audio-to-audio",
+      "lastModified": "2026-05-14T21:26:36.000Z",
+      "numParameters": 9607747,
+      "repoType": "model"
+    },
+    {
+      "author": "kyutai",
+      "id": "kyutai/moshika-rag-candle-bf16",
+      "downloads": 416,
+      "likes": 8,
+      "pipeline_tag": "audio-to-audio",
+      "lastModified": "2026-04-17T07:07:26.000Z",
+      "numParameters": null,
+      "repoType": "model"
+    },
+    {
+      "author": "cstr",
+      "id": "cstr/qwen3-tts-tokenizer-12hz-GGUF",
+      "downloads": 668,
+      "likes": 1,
+      "pipeline_tag": "audio-to-audio",
+      "lastModified": "2026-04-29T20:25:13.000Z",
+      "numParameters": 161808353,
+      "repoType": "model"
+    },
+    {
+      "author": "scragnog",
+      "id": "scragnog/HOT-Step-CPP-PP-VAE",
+      "downloads": 444,
+      "likes": 1,
+      "pipeline_tag": "audio-to-audio",
+      "lastModified": "2026-05-03T08:13:07.000Z",
+      "numParameters": 168695426,
+      "repoType": "model"
+    },
+    {
+      "author": "SofieneK",
+      "id": "SofieneK/SE-NAC",
+      "downloads": 0,
+      "likes": 1,
+      "pipeline_tag": "audio-to-audio",
+      "lastModified": "2026-05-12T16:50:33.000Z",
+      "numParameters": null,
+      "repoType": "model"
+    },
+    {
+      "author": "detail-co",
+      "id": "detail-co/clear",
+      "downloads": 0,
+      "likes": 2,
+      "pipeline_tag": "audio-to-audio",
+      "lastModified": "2026-05-22T07:53:36.000Z",
+      "numParameters": null,
+      "repoType": "model"
+    },
+    {
+      "author": "megagrump",
+      "id": "megagrump/Ace-Step-1.5-ScragVAE-ComfyUI",
+      "downloads": 154,
+      "likes": 2,
+      "pipeline_tag": "audio-to-audio",
+      "lastModified": "2026-05-14T06:52:15.000Z",
+      "numParameters": null,
+      "repoType": "model"
+    },
+    {
+      "author": "penta2himajin",
+      "id": "penta2himajin/tse-conv-tasnet-48k",
+      "downloads": 0,
+      "likes": 1,
+      "pipeline_tag": "audio-to-audio",
+      "lastModified": "2026-05-19T07:05:18.000Z",
+      "numParameters": null,
+      "repoType": "model"
+    },
+    {
+      "author": "matbee",
+      "id": "matbee/lfm2.5-audio-tool-aware-v4.1",
+      "downloads": 36,
+      "likes": 1,
+      "pipeline_tag": "audio-to-audio",
+      "lastModified": "2026-05-22T03:23:17.000Z",
+      "numParameters": 1453523088,
+      "repoType": "model"
+    }
+  ],
+  "fetchedAt": "2026-05-23T20:37:54.908Z"
+}
