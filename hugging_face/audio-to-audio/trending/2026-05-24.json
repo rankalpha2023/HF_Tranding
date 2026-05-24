@@ -1,0 +1,309 @@
+{
+  "category": "audio-to-audio",
+  "sort": "trending",
+  "totalItems": 1123,
+  "fetchedItems": 30,
+  "models": [
+    {
+      "author": "LiquidAI",
+      "id": "LiquidAI/LFM2.5-Audio-1.5B",
+      "downloads": 1007,
+      "likes": 408,
+      "pipeline_tag": "audio-to-audio",
+      "lastModified": "2026-03-30T14:43:52.000Z",
+      "numParameters": 1470308496,
+      "repoType": "model"
+    },
+    {
+      "author": "nvidia",
+      "id": "nvidia/personaplex-7b-v1",
+      "downloads": 399690,
+      "likes": 2508,
+      "pipeline_tag": "audio-to-audio",
+      "lastModified": "2026-03-02T18:03:29.000Z",
+      "numParameters": null,
+      "repoType": "model"
+    },
+    {
+      "author": "nvidia",
+      "id": "nvidia/bigvgan_v2_44khz_128band_512x",
+      "downloads": 696354,
+      "likes": 74,
+      "pipeline_tag": "audio-to-audio",
+      "lastModified": "2024-09-05T03:35:39.000Z",
+      "numParameters": null,
+      "repoType": "model"
+    },
+    {
+      "author": "LiquidAI",
+      "id": "LiquidAI/LFM2-Audio-1.5B",
+      "downloads": 251,
+      "likes": 348,
+      "pipeline_tag": "audio-to-audio",
+      "lastModified": "2026-03-27T16:11:29.000Z",
+      "numParameters": 1470308496,
+      "repoType": "model"
+    },
+    {
+      "author": "inclusionAI",
+      "id": "inclusionAI/Ming-omni-tts-tokenizer-12Hz",
+      "downloads": 60,
+      "likes": 11,
+      "pipeline_tag": "audio-to-audio",
+      "lastModified": "2026-02-25T08:05:03.000Z",
+      "numParameters": 780389010,
+      "repoType": "model"
+    },
+    {
+      "author": "tencent",
+      "id": "tencent/Covo-Audio-Chat",
+      "downloads": 6350,
+      "likes": 94,
+      "pipeline_tag": "audio-to-audio",
+      "lastModified": "2026-03-16T09:59:16.000Z",
+      "numParameters": 8402417920,
+      "repoType": "model"
+    },
+    {
+      "author": "kyutai",
+      "id": "kyutai/moshika-rag-pytorch-bf16",
+      "downloads": 673,
+      "likes": 5,
+      "pipeline_tag": "audio-to-audio",
+      "lastModified": "2026-04-17T07:07:35.000Z",
+      "numParameters": null,
+      "repoType": "model"
+    },
+    {
+      "author": "KRAFTON",
+      "id": "KRAFTON/Raon-SpeechChat-9B",
+      "downloads": 149,
+      "likes": 33,
+      "pipeline_tag": "audio-to-audio",
+      "lastModified": "2026-04-13T10:20:51.000Z",
+      "numParameters": 9701561153,
+      "repoType": "model"
+    },
+    {
+      "author": "penta2himajin",
+      "id": "penta2himajin/tse-conv-tasnet-48k",
+      "downloads": 0,
+      "likes": 2,
+      "pipeline_tag": "audio-to-audio",
+      "lastModified": "2026-05-19T07:05:18.000Z",
+      "numParameters": null,
+      "repoType": "model"
+    },
+    {
+      "author": "sxndypz",
+      "id": "sxndypz/rvc-v2-models",
+      "downloads": 0,
+      "likes": 36,
+      "pipeline_tag": "audio-to-audio",
+      "lastModified": "2026-05-05T11:15:36.000Z",
+      "numParameters": null,
+      "repoType": "model"
+    },
+    {
+      "author": "HirumiM",
+      "id": "HirumiM/Genshin_RVC-rmvpe",
+      "downloads": 0,
+      "likes": 5,
+      "pipeline_tag": "audio-to-audio",
+      "lastModified": "2023-09-05T04:41:29.000Z",
+      "numParameters": null,
+      "repoType": "model"
+    },
+    {
+      "author": "IAHispano",
+      "id": "IAHispano/Applio",
+      "downloads": 111,
+      "likes": 171,
+      "pipeline_tag": "audio-to-audio",
+      "lastModified": "2026-02-25T23:33:36.000Z",
+      "numParameters": null,
+      "repoType": "model"
+    },
+    {
+      "author": "nvidia",
+      "id": "nvidia/bigvgan_v2_22khz_80band_fmax8k_256x",
+      "downloads": 3747,
+      "likes": 3,
+      "pipeline_tag": "audio-to-audio",
+      "lastModified": "2024-09-05T03:36:45.000Z",
+      "numParameters": null,
+      "repoType": "model"
+    },
+    {
+      "author": "nvidia",
+      "id": "nvidia/bigvgan_v2_44khz_128band_256x",
+      "downloads": 1400,
+      "likes": 8,
+      "pipeline_tag": "audio-to-audio",
+      "lastModified": "2024-09-05T03:35:58.000Z",
+      "numParameters": null,
+      "repoType": "model"
+    },
+    {
+      "author": "nvidia",
+      "id": "nvidia/bigvgan_22khz_80band",
+      "downloads": 3241,
+      "likes": 2,
+      "pipeline_tag": "audio-to-audio",
+      "lastModified": "2024-07-22T13:54:09.000Z",
+      "numParameters": null,
+      "repoType": "model"
+    },
+    {
+      "author": "nvidia",
+      "id": "nvidia/bigvgan_24khz_100band",
+      "downloads": 1001,
+      "likes": 5,
+      "pipeline_tag": "audio-to-audio",
+      "lastModified": "2024-07-22T14:00:27.000Z",
+      "numParameters": null,
+      "repoType": "model"
+    },
+    {
+      "author": "nvidia",
+      "id": "nvidia/bigvgan_base_22khz_80band",
+      "downloads": 156,
+      "likes": 1,
+      "pipeline_tag": "audio-to-audio",
+      "lastModified": "2024-07-22T13:54:32.000Z",
+      "numParameters": null,
+      "repoType": "model"
+    },
+    {
+      "author": "nvidia",
+      "id": "nvidia/bigvgan_base_24khz_100band",
+      "downloads": 119,
+      "likes": 1,
+      "pipeline_tag": "audio-to-audio",
+      "lastModified": "2024-07-22T13:53:47.000Z",
+      "numParameters": null,
+      "repoType": "model"
+    },
+    {
+      "author": "Plachta",
+      "id": "Plachta/Seed-VC",
+      "downloads": 0,
+      "likes": 78,
+      "pipeline_tag": "audio-to-audio",
+      "lastModified": "2025-04-07T13:07:56.000Z",
+      "numParameters": null,
+      "repoType": "model"
+    },
+    {
+      "author": "HiDolen",
+      "id": "HiDolen/Mini-BS-RoFormer-18M",
+      "downloads": 387,
+      "likes": 5,
+      "pipeline_tag": "audio-to-audio",
+      "lastModified": "2025-12-29T06:05:59.000Z",
+      "numParameters": 17879844,
+      "repoType": "model"
+    },
+    {
+      "author": "SPRINGLab",
+      "id": "SPRINGLab/EZ-VC",
+      "downloads": 115,
+      "likes": 7,
+      "pipeline_tag": "audio-to-audio",
+      "lastModified": "2025-12-02T07:20:17.000Z",
+      "numParameters": null,
+      "repoType": "model"
+    },
+    {
+      "author": "LiangJiaHeStudio",
+      "id": "LiangJiaHeStudio/Xi_Emperor_FullPower_RVC",
+      "downloads": 0,
+      "likes": 6,
+      "pipeline_tag": "audio-to-audio",
+      "lastModified": "2025-12-10T16:25:49.000Z",
+      "numParameters": null,
+      "repoType": "model"
+    },
+    {
+      "author": "cisco-ai",
+      "id": "cisco-ai/pase",
+      "downloads": 0,
+      "likes": 3,
+      "pipeline_tag": "audio-to-audio",
+      "lastModified": "2026-04-08T10:59:31.000Z",
+      "numParameters": null,
+      "repoType": "model"
+    },
+    {
+      "author": "drbaph",
+      "id": "drbaph/AudioSR",
+      "downloads": 0,
+      "likes": 24,
+      "pipeline_tag": "audio-to-audio",
+      "lastModified": "2026-01-27T21:29:34.000Z",
+      "numParameters": null,
+      "repoType": "model"
+    },
+    {
+      "author": "mlx-community",
+      "id": "mlx-community/LFM2.5-Audio-1.5B-4bit",
+      "downloads": 42,
+      "likes": 2,
+      "pipeline_tag": "audio-to-audio",
+      "lastModified": "2026-01-15T23:09:05.000Z",
+      "numParameters": 383147648,
+      "repoType": "model"
+    },
+    {
+      "author": "iBoostAI",
+      "id": "iBoostAI/Demucs-v4",
+      "downloads": 0,
+      "likes": 4,
+      "pipeline_tag": "audio-to-audio",
+      "lastModified": "2026-02-26T18:39:16.000Z",
+      "numParameters": null,
+      "repoType": "model"
+    },
+    {
+      "author": "JoshTalksAI",
+      "id": "JoshTalksAI/Human-1",
+      "downloads": 94,
+      "likes": 3,
+      "pipeline_tag": "audio-to-audio",
+      "lastModified": "2026-04-28T08:06:51.000Z",
+      "numParameters": 7687729152,
+      "repoType": "model"
+    },
+    {
+      "author": "mlx-community",
+      "id": "mlx-community/demucs-mlx-fp16",
+      "downloads": 0,
+      "likes": 9,
+      "pipeline_tag": "audio-to-audio",
+      "lastModified": "2026-03-16T21:18:06.000Z",
+      "numParameters": null,
+      "repoType": "model"
+    },
+    {
+      "author": "nvidia",
+      "id": "nvidia/RE-USE",
+      "downloads": 6603,
+      "likes": 76,
+      "pipeline_tag": "audio-to-audio",
+      "lastModified": "2026-05-14T21:26:36.000Z",
+      "numParameters": 9607747,
+      "repoType": "model"
+    },
+    {
+      "author": "kyutai",
+      "id": "kyutai/moshika-rag-candle-bf16",
+      "downloads": 416,
+      "likes": 8,
+      "pipeline_tag": "audio-to-audio",
+      "lastModified": "2026-04-17T07:07:26.000Z",
+      "numParameters": null,
+      "repoType": "model"
+    }
+  ],
+  "fetchedAt": "2026-05-24T20:41:28.018Z"
+}
