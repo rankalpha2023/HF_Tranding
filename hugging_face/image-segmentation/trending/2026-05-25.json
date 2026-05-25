@@ -1,0 +1,309 @@
+{
+  "category": "image-segmentation",
+  "sort": "trending",
+  "totalItems": 2635,
+  "fetchedItems": 30,
+  "models": [
+    {
+      "author": "briaai",
+      "id": "briaai/RMBG-2.0",
+      "downloads": 712386,
+      "likes": 1216,
+      "pipeline_tag": "image-segmentation",
+      "lastModified": "2026-04-06T15:27:43.000Z",
+      "numParameters": 220700242,
+      "repoType": "model"
+    },
+    {
+      "author": "ZhengPeng7",
+      "id": "ZhengPeng7/BiRefNet",
+      "downloads": 990204,
+      "likes": 586,
+      "pipeline_tag": "image-segmentation",
+      "lastModified": "2026-02-04T22:43:55.000Z",
+      "numParameters": 220700242,
+      "repoType": "model"
+    },
+    {
+      "author": "briaai",
+      "id": "briaai/RMBG-1.4",
+      "downloads": 435529,
+      "likes": 1979,
+      "pipeline_tag": "image-segmentation",
+      "lastModified": "2025-07-06T08:27:49.000Z",
+      "numParameters": null,
+      "repoType": "model"
+    },
+    {
+      "author": "rookiexiong",
+      "id": "rookiexiong/SetCon-8B",
+      "downloads": 74,
+      "likes": 3,
+      "pipeline_tag": "image-segmentation",
+      "lastModified": "2026-05-20T03:40:32.000Z",
+      "numParameters": null,
+      "repoType": "model"
+    },
+    {
+      "author": "mlx-community",
+      "id": "mlx-community/sam3-image",
+      "downloads": 0,
+      "likes": 18,
+      "pipeline_tag": "image-segmentation",
+      "lastModified": "2025-12-24T05:35:33.000Z",
+      "numParameters": null,
+      "repoType": "model"
+    },
+    {
+      "author": "PaddlePaddle",
+      "id": "PaddlePaddle/PP-DocLayoutV3",
+      "downloads": 22158,
+      "likes": 77,
+      "pipeline_tag": "image-segmentation",
+      "lastModified": "2026-01-30T19:28:11.000Z",
+      "numParameters": null,
+      "repoType": "model"
+    },
+    {
+      "author": "briaai",
+      "id": "briaai/VRMBG-3.0",
+      "downloads": 20,
+      "likes": 8,
+      "pipeline_tag": "image-segmentation",
+      "lastModified": "2026-05-20T10:15:58.000Z",
+      "numParameters": 220709458,
+      "repoType": "model"
+    },
+    {
+      "author": "facebook",
+      "id": "facebook/sapiens2-matting-1b",
+      "downloads": 0,
+      "likes": 4,
+      "pipeline_tag": "image-segmentation",
+      "lastModified": "2026-05-15T22:48:12.000Z",
+      "numParameters": null,
+      "repoType": "model"
+    },
+    {
+      "author": "Noe-B",
+      "id": "Noe-B/historical-map-city-block-vectorization",
+      "downloads": 0,
+      "likes": 2,
+      "pipeline_tag": "image-segmentation",
+      "lastModified": "2026-05-20T14:05:04.000Z",
+      "numParameters": null,
+      "repoType": "model"
+    },
+    {
+      "author": "jonathandinu",
+      "id": "jonathandinu/face-parsing",
+      "downloads": 357616,
+      "likes": 219,
+      "pipeline_tag": "image-segmentation",
+      "lastModified": "2026-02-18T22:38:54.000Z",
+      "numParameters": 84609491,
+      "repoType": "model"
+    },
+    {
+      "author": "skytnt",
+      "id": "skytnt/anime-seg",
+      "downloads": 96,
+      "likes": 53,
+      "pipeline_tag": "image-segmentation",
+      "lastModified": "2024-10-18T08:01:38.000Z",
+      "numParameters": null,
+      "repoType": "model"
+    },
+    {
+      "author": "shi-labs",
+      "id": "shi-labs/oneformer_ade20k_swin_large",
+      "downloads": 99455,
+      "likes": 35,
+      "pipeline_tag": "image-segmentation",
+      "lastModified": "2023-01-19T14:36:03.000Z",
+      "numParameters": null,
+      "repoType": "model"
+    },
+    {
+      "author": "mattmdjaga",
+      "id": "mattmdjaga/segformer_b2_clothes",
+      "downloads": 324768,
+      "likes": 500,
+      "pipeline_tag": "image-segmentation",
+      "lastModified": "2025-09-19T07:21:11.000Z",
+      "numParameters": 27362002,
+      "repoType": "model"
+    },
+    {
+      "author": "IGNF",
+      "id": "IGNF/FLAIR-INC_rgbie_15cl_resnet34-unet",
+      "downloads": 0,
+      "likes": 11,
+      "pipeline_tag": "image-segmentation",
+      "lastModified": "2025-12-23T20:53:18.000Z",
+      "numParameters": null,
+      "repoType": "model"
+    },
+    {
+      "author": "PramaLLC",
+      "id": "PramaLLC/BEN2",
+      "downloads": 216333,
+      "likes": 233,
+      "pipeline_tag": "image-segmentation",
+      "lastModified": "2025-12-31T17:17:52.000Z",
+      "numParameters": 94632322,
+      "repoType": "model"
+    },
+    {
+      "author": "onnx-community",
+      "id": "onnx-community/BEN2-ONNX",
+      "downloads": 3825,
+      "likes": 20,
+      "pipeline_tag": "image-segmentation",
+      "lastModified": "2026-03-03T01:30:06.000Z",
+      "numParameters": null,
+      "repoType": "model"
+    },
+    {
+      "author": "BVRA",
+      "id": "BVRA/TurtleDetector",
+      "downloads": 92,
+      "likes": 2,
+      "pipeline_tag": "image-segmentation",
+      "lastModified": "2026-04-30T13:55:42.000Z",
+      "numParameters": null,
+      "repoType": "model"
+    },
+    {
+      "author": "AtlasAnalyticsLab",
+      "id": "AtlasAnalyticsLab/AtlasPatch",
+      "downloads": 0,
+      "likes": 4,
+      "pipeline_tag": "image-segmentation",
+      "lastModified": "2026-02-06T12:31:10.000Z",
+      "numParameters": null,
+      "repoType": "model"
+    },
+    {
+      "author": "yaraa11",
+      "id": "yaraa11/road-lane-semantic-segmentation-unet-resnet50",
+      "downloads": 62,
+      "likes": 3,
+      "pipeline_tag": "image-segmentation",
+      "lastModified": "2026-01-27T17:53:17.000Z",
+      "numParameters": null,
+      "repoType": "model"
+    },
+    {
+      "author": "vietanhdev",
+      "id": "vietanhdev/segment-anything-3-onnx-models",
+      "downloads": 0,
+      "likes": 13,
+      "pipeline_tag": "image-segmentation",
+      "lastModified": "2026-05-03T06:00:17.000Z",
+      "numParameters": null,
+      "repoType": "model"
+    },
+    {
+      "author": "keejkrej",
+      "id": "keejkrej/cellpose-cpsam-onnx",
+      "downloads": 0,
+      "likes": 1,
+      "pipeline_tag": "image-segmentation",
+      "lastModified": "2026-02-22T01:30:00.000Z",
+      "numParameters": null,
+      "repoType": "model"
+    },
+    {
+      "author": "MaryPazRB",
+      "id": "MaryPazRB/Paper_CLR_CV",
+      "downloads": 0,
+      "likes": 1,
+      "pipeline_tag": "image-segmentation",
+      "lastModified": "2026-03-26T18:39:32.000Z",
+      "numParameters": null,
+      "repoType": "model"
+    },
+    {
+      "author": "gobeldan",
+      "id": "gobeldan/RMBG-2.0-GGUF",
+      "downloads": 81,
+      "likes": 2,
+      "pipeline_tag": "image-segmentation",
+      "lastModified": "2026-04-09T19:00:47.000Z",
+      "numParameters": 220162278,
+      "repoType": "model"
+    },
+    {
+      "author": "Roboflow",
+      "id": "Roboflow/rf-detr-segmentation",
+      "downloads": 32,
+      "likes": 1,
+      "pipeline_tag": "image-segmentation",
+      "lastModified": "2026-05-20T16:47:13.000Z",
+      "numParameters": 34153555,
+      "repoType": "model"
+    },
+    {
+      "author": "RAI-Lab",
+      "id": "RAI-Lab/Wildfire-FM",
+      "downloads": 0,
+      "likes": 1,
+      "pipeline_tag": "image-segmentation",
+      "lastModified": "2026-05-19T00:17:50.000Z",
+      "numParameters": null,
+      "repoType": "model"
+    },
+    {
+      "author": "StanfordAIMI",
+      "id": "StanfordAIMI/MASS",
+      "downloads": 0,
+      "likes": 1,
+      "pipeline_tag": "image-segmentation",
+      "lastModified": "2026-05-17T05:53:23.000Z",
+      "numParameters": null,
+      "repoType": "model"
+    },
+    {
+      "author": "avbiswas",
+      "id": "avbiswas/sam2.1-hiera-small-mlx",
+      "downloads": 0,
+      "likes": 3,
+      "pipeline_tag": "image-segmentation",
+      "lastModified": "2026-05-19T05:35:55.000Z",
+      "numParameters": 52341201,
+      "repoType": "model"
+    },
+    {
+      "author": "avbiswas",
+      "id": "avbiswas/sam2.1-hiera-large-mlx",
+      "downloads": 0,
+      "likes": 1,
+      "pipeline_tag": "image-segmentation",
+      "lastModified": "2026-05-19T05:35:59.000Z",
+      "numParameters": null,
+      "repoType": "model"
+    },
+    {
+      "author": "NKI-AI",
+      "id": "NKI-AI/tissue-bg-all-stains",
+      "downloads": 0,
+      "likes": 1,
+      "pipeline_tag": "image-segmentation",
+      "lastModified": "2026-05-19T12:42:36.000Z",
+      "numParameters": null,
+      "repoType": "model"
+    },
+    {
+      "author": "Noe-B",
+      "id": "Noe-B/historic-map-semantic-segmentation",
+      "downloads": 0,
+      "likes": 1,
+      "pipeline_tag": "image-segmentation",
+      "lastModified": "2026-05-20T14:08:35.000Z",
+      "numParameters": null,
+      "repoType": "model"
+    }
+  ],
+  "fetchedAt": "2026-05-25T20:56:35.480Z"
+}
