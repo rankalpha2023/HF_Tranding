@@ -1,0 +1,309 @@
+{
+  "category": "feature-extraction",
+  "sort": "trending",
+  "totalItems": 18018,
+  "fetchedItems": 30,
+  "models": [
+    {
+      "author": "Qwen",
+      "id": "Qwen/Qwen3-Embedding-0.6B",
+      "downloads": 7354674,
+      "likes": 1036,
+      "pipeline_tag": "feature-extraction",
+      "lastModified": "2026-04-20T02:45:58.000Z",
+      "numParameters": 595776512,
+      "repoType": "model"
+    },
+    {
+      "author": "zeroentropy",
+      "id": "zeroentropy/zembed-1-embedding",
+      "downloads": 349242,
+      "likes": 107,
+      "pipeline_tag": "feature-extraction",
+      "lastModified": "2026-03-12T21:10:43.000Z",
+      "numParameters": 4022468096,
+      "repoType": "model"
+    },
+    {
+      "author": "perplexity-ai",
+      "id": "perplexity-ai/pplx-embed-v1-late-0.6b",
+      "downloads": 4865,
+      "likes": 23,
+      "pipeline_tag": "feature-extraction",
+      "lastModified": "2026-05-19T15:05:48.000Z",
+      "numParameters": 595778560,
+      "repoType": "model"
+    },
+    {
+      "author": "jinaai",
+      "id": "jinaai/jina-embeddings-v5-omni-small",
+      "downloads": 37815,
+      "likes": 60,
+      "pipeline_tag": "feature-extraction",
+      "lastModified": "2026-05-22T12:51:38.000Z",
+      "numParameters": 1626268672,
+      "repoType": "model"
+    },
+    {
+      "author": "ibm-granite",
+      "id": "ibm-granite/granite-embedding-311m-multilingual-r2",
+      "downloads": 105770,
+      "likes": 91,
+      "pipeline_tag": "feature-extraction",
+      "lastModified": "2026-05-18T20:15:41.000Z",
+      "numParameters": 311664384,
+      "repoType": "model"
+    },
+    {
+      "author": "nvidia",
+      "id": "nvidia/C-RADIOv4-H",
+      "downloads": 19048,
+      "likes": 75,
+      "pipeline_tag": "feature-extraction",
+      "lastModified": "2026-01-30T12:40:28.000Z",
+      "numParameters": 651645448,
+      "repoType": "model"
+    },
+    {
+      "author": "BAAI",
+      "id": "BAAI/bge-large-en-v1.5",
+      "downloads": 14886648,
+      "likes": 669,
+      "pipeline_tag": "feature-extraction",
+      "lastModified": "2024-02-21T02:51:44.000Z",
+      "numParameters": 335142400,
+      "repoType": "model"
+    },
+    {
+      "author": "Qwen",
+      "id": "Qwen/Qwen3-Embedding-8B",
+      "downloads": 1635747,
+      "likes": 688,
+      "pipeline_tag": "feature-extraction",
+      "lastModified": "2025-07-07T09:02:21.000Z",
+      "numParameters": 7567295488,
+      "repoType": "model"
+    },
+    {
+      "author": "llm-jp",
+      "id": "llm-jp/Jagle-VL-2.2B-Jagle",
+      "downloads": 33,
+      "likes": 4,
+      "pipeline_tag": "feature-extraction",
+      "lastModified": "2026-04-13T00:48:37.000Z",
+      "numParameters": 2162460096,
+      "repoType": "model"
+    },
+    {
+      "author": "ibm-granite",
+      "id": "ibm-granite/granite-embedding-97m-multilingual-r2",
+      "downloads": 64116,
+      "likes": 108,
+      "pipeline_tag": "feature-extraction",
+      "lastModified": "2026-05-18T20:17:17.000Z",
+      "numParameters": 97441152,
+      "repoType": "model"
+    },
+    {
+      "author": "BAAI",
+      "id": "BAAI/bge-reranker-large",
+      "downloads": 1551040,
+      "likes": 462,
+      "pipeline_tag": "feature-extraction",
+      "lastModified": "2024-05-11T13:39:02.000Z",
+      "numParameters": 559891971,
+      "repoType": "model"
+    },
+    {
+      "author": "mixedbread-ai",
+      "id": "mixedbread-ai/mxbai-embed-large-v1",
+      "downloads": 4749911,
+      "likes": 803,
+      "pipeline_tag": "feature-extraction",
+      "lastModified": "2026-01-23T11:59:58.000Z",
+      "numParameters": 335141888,
+      "repoType": "model"
+    },
+    {
+      "author": "perplexity-ai",
+      "id": "perplexity-ai/pplx-embed-v1-0.6b",
+      "downloads": 86851,
+      "likes": 212,
+      "pipeline_tag": "feature-extraction",
+      "lastModified": "2026-03-03T08:17:37.000Z",
+      "numParameters": 596049920,
+      "repoType": "model"
+    },
+    {
+      "author": "jinaai",
+      "id": "jinaai/jina-embeddings-v5-text-small",
+      "downloads": 244849,
+      "likes": 168,
+      "pipeline_tag": "feature-extraction",
+      "lastModified": "2026-04-15T09:14:28.000Z",
+      "numParameters": 596049920,
+      "repoType": "model"
+    },
+    {
+      "author": "microsoft",
+      "id": "microsoft/harrier-oss-v1-270m",
+      "downloads": 165363,
+      "likes": 165,
+      "pipeline_tag": "feature-extraction",
+      "lastModified": "2026-03-30T07:34:02.000Z",
+      "numParameters": 268098176,
+      "repoType": "model"
+    },
+    {
+      "author": "jinaai",
+      "id": "jinaai/jina-embeddings-v5-omni-nano",
+      "downloads": 92289,
+      "likes": 24,
+      "pipeline_tag": "feature-extraction",
+      "lastModified": "2026-05-22T12:51:46.000Z",
+      "numParameters": 985984512,
+      "repoType": "model"
+    },
+    {
+      "author": "Xenova",
+      "id": "Xenova/all-MiniLM-L6-v2",
+      "downloads": 3845960,
+      "likes": 119,
+      "pipeline_tag": "feature-extraction",
+      "lastModified": "2025-07-22T16:42:24.000Z",
+      "numParameters": null,
+      "repoType": "model"
+    },
+    {
+      "author": "intfloat",
+      "id": "intfloat/multilingual-e5-large",
+      "downloads": 7304659,
+      "likes": 1194,
+      "pipeline_tag": "feature-extraction",
+      "lastModified": "2026-04-02T02:16:59.000Z",
+      "numParameters": 559890946,
+      "repoType": "model"
+    },
+    {
+      "author": "BAAI",
+      "id": "BAAI/bge-base-en-v1.5",
+      "downloads": 9472455,
+      "likes": 427,
+      "pipeline_tag": "feature-extraction",
+      "lastModified": "2024-02-21T03:00:19.000Z",
+      "numParameters": 109482752,
+      "repoType": "model"
+    },
+    {
+      "author": "BAAI",
+      "id": "BAAI/bge-small-en-v1.5",
+      "downloads": 50786539,
+      "likes": 471,
+      "pipeline_tag": "feature-extraction",
+      "lastModified": "2024-02-22T03:36:23.000Z",
+      "numParameters": 33360512,
+      "repoType": "model"
+    },
+    {
+      "author": "Tiiny",
+      "id": "Tiiny/TurboSparse-Mixtral",
+      "downloads": 27,
+      "likes": 44,
+      "pipeline_tag": "feature-extraction",
+      "lastModified": "2024-06-14T02:13:18.000Z",
+      "numParameters": 51796250624,
+      "repoType": "model"
+    },
+    {
+      "author": "ManishThota",
+      "id": "ManishThota/Ollama_Quantised_LLaVA-NeXT-Video-7B-DPO",
+      "downloads": 5180,
+      "likes": 5,
+      "pipeline_tag": "feature-extraction",
+      "lastModified": "2024-06-29T00:47:34.000Z",
+      "numParameters": 7083886592,
+      "repoType": "model"
+    },
+    {
+      "author": "openbmb",
+      "id": "openbmb/MiniCPM-Embedding",
+      "downloads": 6623,
+      "likes": 253,
+      "pipeline_tag": "feature-extraction",
+      "lastModified": "2025-01-23T04:16:42.000Z",
+      "numParameters": 2724880896,
+      "repoType": "model"
+    },
+    {
+      "author": "jinaai",
+      "id": "jinaai/jina-embeddings-v3",
+      "downloads": 3750292,
+      "likes": 1144,
+      "pipeline_tag": "feature-extraction",
+      "lastModified": "2026-04-08T14:04:08.000Z",
+      "numParameters": 572310396,
+      "repoType": "model"
+    },
+    {
+      "author": "KaLM-Embedding",
+      "id": "KaLM-Embedding/KaLM-embedding-multilingual-mini-instruct-v2.5",
+      "downloads": 6523,
+      "likes": 60,
+      "pipeline_tag": "feature-extraction",
+      "lastModified": "2026-04-22T08:52:08.000Z",
+      "numParameters": 494032768,
+      "repoType": "model"
+    },
+    {
+      "author": "voyageai",
+      "id": "voyageai/voyage-4-nano",
+      "downloads": 167856,
+      "likes": 112,
+      "pipeline_tag": "feature-extraction",
+      "lastModified": "2026-03-02T04:56:15.000Z",
+      "numParameters": null,
+      "repoType": "model"
+    },
+    {
+      "author": "jinaai",
+      "id": "jinaai/jina-embeddings-v5-text-nano",
+      "downloads": 279563,
+      "likes": 72,
+      "pipeline_tag": "feature-extraction",
+      "lastModified": "2026-04-15T09:15:08.000Z",
+      "numParameters": 211766016,
+      "repoType": "model"
+    },
+    {
+      "author": "Sikaworld1990",
+      "id": "Sikaworld1990/gemma-3-12b-qat-abliterated-sikaworld-fp4-ltx2",
+      "downloads": 0,
+      "likes": 29,
+      "pipeline_tag": "feature-extraction",
+      "lastModified": "2026-03-11T17:20:00.000Z",
+      "numParameters": null,
+      "repoType": "model"
+    },
+    {
+      "author": "Abiray",
+      "id": "Abiray/zembed-1-Q4_K_M-GGUF",
+      "downloads": 166,
+      "likes": 3,
+      "pipeline_tag": "feature-extraction",
+      "lastModified": "2026-03-11T18:51:04.000Z",
+      "numParameters": 4022468096,
+      "repoType": "model"
+    },
+    {
+      "author": "llm-jp",
+      "id": "llm-jp/Jagle-VL-2.2B-Jagle-FineVision",
+      "downloads": 46,
+      "likes": 2,
+      "pipeline_tag": "feature-extraction",
+      "lastModified": "2026-05-25T00:43:14.000Z",
+      "numParameters": 2162460096,
+      "repoType": "model"
+    }
+  ],
+  "fetchedAt": "2026-05-26T21:26:16.497Z"
+}
