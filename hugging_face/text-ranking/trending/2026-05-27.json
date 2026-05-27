@@ -1,0 +1,309 @@
+{
+  "category": "text-ranking",
+  "sort": "trending",
+  "totalItems": 1029,
+  "fetchedItems": 30,
+  "models": [
+    {
+      "author": "zeroentropy",
+      "id": "zeroentropy/zerank-2-reranker",
+      "downloads": 123075,
+      "likes": 82,
+      "pipeline_tag": "text-ranking",
+      "lastModified": "2026-05-05T17:47:28.000Z",
+      "numParameters": 4022468096,
+      "repoType": "model"
+    },
+    {
+      "author": "mixedbread-ai",
+      "id": "mixedbread-ai/mxbai-rerank-large-v2",
+      "downloads": 420862,
+      "likes": 138,
+      "pipeline_tag": "text-ranking",
+      "lastModified": "2026-04-08T08:36:49.000Z",
+      "numParameters": 1543714304,
+      "repoType": "model"
+    },
+    {
+      "author": "Qwen",
+      "id": "Qwen/Qwen3-Reranker-0.6B",
+      "downloads": 1408254,
+      "likes": 354,
+      "pipeline_tag": "text-ranking",
+      "lastModified": "2026-04-16T08:55:59.000Z",
+      "numParameters": 595776512,
+      "repoType": "model"
+    },
+    {
+      "author": "naver",
+      "id": "naver/xprovence-reranker-bgem3-v1",
+      "downloads": 87,
+      "likes": 16,
+      "pipeline_tag": "text-ranking",
+      "lastModified": "2026-03-09T08:45:29.000Z",
+      "numParameters": 567757827,
+      "repoType": "model"
+    },
+    {
+      "author": "cross-encoder",
+      "id": "cross-encoder/ettin-reranker-17m-v1",
+      "downloads": 2090,
+      "likes": 8,
+      "pipeline_tag": "text-ranking",
+      "lastModified": "2026-05-19T13:58:35.000Z",
+      "numParameters": 16797440,
+      "repoType": "model"
+    },
+    {
+      "author": "cross-encoder",
+      "id": "cross-encoder/ettin-reranker-400m-v1",
+      "downloads": 898,
+      "likes": 3,
+      "pipeline_tag": "text-ranking",
+      "lastModified": "2026-05-19T13:59:49.000Z",
+      "numParameters": 394781696,
+      "repoType": "model"
+    },
+    {
+      "author": "cross-encoder",
+      "id": "cross-encoder/ettin-reranker-1b-v1",
+      "downloads": 487,
+      "likes": 5,
+      "pipeline_tag": "text-ranking",
+      "lastModified": "2026-05-19T14:00:04.000Z",
+      "numParameters": 1028050688,
+      "repoType": "model"
+    },
+    {
+      "author": "cross-encoder",
+      "id": "cross-encoder/ms-marco-MiniLM-L6-v2",
+      "downloads": 64538908,
+      "likes": 246,
+      "pipeline_tag": "text-ranking",
+      "lastModified": "2025-08-29T14:36:10.000Z",
+      "numParameters": 22714113,
+      "repoType": "model"
+    },
+    {
+      "author": "cross-encoder",
+      "id": "cross-encoder/qnli-distilroberta-base",
+      "downloads": 3724,
+      "likes": 1,
+      "pipeline_tag": "text-ranking",
+      "lastModified": "2025-04-11T08:54:34.000Z",
+      "numParameters": 82119683,
+      "repoType": "model"
+    },
+    {
+      "author": "cross-encoder",
+      "id": "cross-encoder/stsb-distilroberta-base",
+      "downloads": 151113,
+      "likes": 8,
+      "pipeline_tag": "text-ranking",
+      "lastModified": "2025-04-15T08:19:49.000Z",
+      "numParameters": 82119683,
+      "repoType": "model"
+    },
+    {
+      "author": "Alibaba-NLP",
+      "id": "Alibaba-NLP/gte-multilingual-reranker-base",
+      "downloads": 180811,
+      "likes": 180,
+      "pipeline_tag": "text-ranking",
+      "lastModified": "2025-07-05T01:38:02.000Z",
+      "numParameters": 305959681,
+      "repoType": "model"
+    },
+    {
+      "author": "naver",
+      "id": "naver/provence-reranker-debertav3-v1",
+      "downloads": 1899,
+      "likes": 70,
+      "pipeline_tag": "text-ranking",
+      "lastModified": "2025-09-26T12:13:44.000Z",
+      "numParameters": 435064835,
+      "repoType": "model"
+    },
+    {
+      "author": "sdiazlor",
+      "id": "sdiazlor/modernbert-embed-base-crossencoder-human-rights",
+      "downloads": 3,
+      "likes": 1,
+      "pipeline_tag": "text-ranking",
+      "lastModified": "2025-06-16T11:46:55.000Z",
+      "numParameters": 149605633,
+      "repoType": "model"
+    },
+    {
+      "author": "Alibaba-NLP",
+      "id": "Alibaba-NLP/gte-reranker-modernbert-base",
+      "downloads": 1522344,
+      "likes": 96,
+      "pipeline_tag": "text-ranking",
+      "lastModified": "2025-07-04T10:03:42.000Z",
+      "numParameters": 149605633,
+      "repoType": "model"
+    },
+    {
+      "author": "Qwen",
+      "id": "Qwen/Qwen3-Reranker-8B",
+      "downloads": 1286272,
+      "likes": 233,
+      "pipeline_tag": "text-ranking",
+      "lastModified": "2026-04-16T08:56:16.000Z",
+      "numParameters": 8188548096,
+      "repoType": "model"
+    },
+    {
+      "author": "zeroentropy",
+      "id": "zeroentropy/zerank-1-small-reranker",
+      "downloads": 14165,
+      "likes": 64,
+      "pipeline_tag": "text-ranking",
+      "lastModified": "2026-03-09T02:42:10.000Z",
+      "numParameters": 1720574976,
+      "repoType": "model"
+    },
+    {
+      "author": "ContextualAI",
+      "id": "ContextualAI/ctxl-rerank-v2-instruct-multilingual-1b",
+      "downloads": 2098,
+      "likes": 13,
+      "pipeline_tag": "text-ranking",
+      "lastModified": "2026-04-24T22:11:15.000Z",
+      "numParameters": 1327035904,
+      "repoType": "model"
+    },
+    {
+      "author": "ContextualAI",
+      "id": "ContextualAI/ctxl-rerank-v2-instruct-multilingual-2b",
+      "downloads": 618,
+      "likes": 2,
+      "pipeline_tag": "text-ranking",
+      "lastModified": "2026-04-24T22:11:25.000Z",
+      "numParameters": 2594669568,
+      "repoType": "model"
+    },
+    {
+      "author": "ContextualAI",
+      "id": "ContextualAI/ctxl-rerank-v2-instruct-multilingual-6b",
+      "downloads": 279,
+      "likes": 19,
+      "pipeline_tag": "text-ranking",
+      "lastModified": "2026-04-24T22:11:27.000Z",
+      "numParameters": 6794982400,
+      "repoType": "model"
+    },
+    {
+      "author": "ContextualAI",
+      "id": "ContextualAI/ctxl-rerank-v2-instruct-multilingual-1b-nvfp4",
+      "downloads": 3,
+      "likes": 1,
+      "pipeline_tag": "text-ranking",
+      "lastModified": "2025-12-22T16:13:21.000Z",
+      "numParameters": 1018754756,
+      "repoType": "model"
+    },
+    {
+      "author": "ContextualAI",
+      "id": "ContextualAI/ctxl-rerank-v2-instruct-multilingual-2b-nvfp4",
+      "downloads": 69,
+      "likes": 1,
+      "pipeline_tag": "text-ranking",
+      "lastModified": "2025-12-22T16:13:18.000Z",
+      "numParameters": 1799881980,
+      "repoType": "model"
+    },
+    {
+      "author": "ContextualAI",
+      "id": "ContextualAI/ctxl-rerank-v2-instruct-multilingual-6b-nvfp4",
+      "downloads": 5,
+      "likes": 3,
+      "pipeline_tag": "text-ranking",
+      "lastModified": "2025-12-22T16:11:22.000Z",
+      "numParameters": 4409472280,
+      "repoType": "model"
+    },
+    {
+      "author": "ggml-org",
+      "id": "ggml-org/Qwen3-Reranker-0.6B-Q8_0-GGUF",
+      "downloads": 33988,
+      "likes": 18,
+      "pipeline_tag": "text-ranking",
+      "lastModified": "2025-10-03T10:19:38.000Z",
+      "numParameters": 595778560,
+      "repoType": "model"
+    },
+    {
+      "author": "jinaai",
+      "id": "jinaai/jina-reranker-v3-mlx",
+      "downloads": 840,
+      "likes": 5,
+      "pipeline_tag": "text-ranking",
+      "lastModified": "2025-10-04T17:48:58.000Z",
+      "numParameters": 596049920,
+      "repoType": "model"
+    },
+    {
+      "author": "nvidia",
+      "id": "nvidia/llama-nemotron-rerank-1b-v2",
+      "downloads": 117073,
+      "likes": 53,
+      "pipeline_tag": "text-ranking",
+      "lastModified": "2026-05-20T18:24:14.000Z",
+      "numParameters": 1235816448,
+      "repoType": "model"
+    },
+    {
+      "author": "Qwen",
+      "id": "Qwen/Qwen3-VL-Reranker-2B",
+      "downloads": 315453,
+      "likes": 193,
+      "pipeline_tag": "text-ranking",
+      "lastModified": "2026-04-16T08:55:33.000Z",
+      "numParameters": 2127532032,
+      "repoType": "model"
+    },
+    {
+      "author": "Voodisss",
+      "id": "Voodisss/Qwen3-Reranker-4B-GGUF-llama_cpp",
+      "downloads": 1543,
+      "likes": 8,
+      "pipeline_tag": "text-ranking",
+      "lastModified": "2026-03-10T20:10:46.000Z",
+      "numParameters": 4021789696,
+      "repoType": "model"
+    },
+    {
+      "author": "ContextualAI",
+      "id": "ContextualAI/ctxl-rerank-v2-instruct-multilingual-1b-fp8",
+      "downloads": 53,
+      "likes": 1,
+      "pipeline_tag": "text-ranking",
+      "lastModified": "2026-04-23T02:28:24.000Z",
+      "numParameters": 1327322624,
+      "repoType": "model"
+    },
+    {
+      "author": "ContextualAI",
+      "id": "ContextualAI/ctxl-rerank-v2-instruct-multilingual-2b-fp8",
+      "downloads": 4,
+      "likes": 1,
+      "pipeline_tag": "text-ranking",
+      "lastModified": "2026-04-23T02:28:41.000Z",
+      "numParameters": 2595222528,
+      "repoType": "model"
+    },
+    {
+      "author": "ContextualAI",
+      "id": "ContextualAI/ctxl-rerank-v2-instruct-multilingual-6b-fp8",
+      "downloads": 2,
+      "likes": 1,
+      "pipeline_tag": "text-ranking",
+      "lastModified": "2026-04-23T02:29:14.000Z",
+      "numParameters": 6795883520,
+      "repoType": "model"
+    }
+  ],
+  "fetchedAt": "2026-05-27T21:44:10.927Z"
+}

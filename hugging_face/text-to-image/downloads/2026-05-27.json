@@ -1,0 +1,309 @@
+{
+  "category": "text-to-image",
+  "sort": "downloads",
+  "totalItems": 100369,
+  "fetchedItems": 30,
+  "models": [
+    {
+      "author": "stabilityai",
+      "id": "stabilityai/stable-diffusion-xl-base-1.0",
+      "downloads": 1867569,
+      "likes": 7754,
+      "pipeline_tag": "text-to-image",
+      "lastModified": "2023-10-30T16:03:47.000Z",
+      "numParameters": null,
+      "repoType": "model"
+    },
+    {
+      "author": "stable-diffusion-v1-5",
+      "id": "stable-diffusion-v1-5/stable-diffusion-v1-5",
+      "downloads": 1750943,
+      "likes": 1126,
+      "pipeline_tag": "text-to-image",
+      "lastModified": "2024-09-07T16:20:30.000Z",
+      "numParameters": null,
+      "repoType": "model"
+    },
+    {
+      "author": "Tongyi-MAI",
+      "id": "Tongyi-MAI/Z-Image-Turbo",
+      "downloads": 1202919,
+      "likes": 4691,
+      "pipeline_tag": "text-to-image",
+      "lastModified": "2026-01-30T16:58:07.000Z",
+      "numParameters": null,
+      "repoType": "model"
+    },
+    {
+      "author": "stabilityai",
+      "id": "stabilityai/sdxl-turbo",
+      "downloads": 1127689,
+      "likes": 2579,
+      "pipeline_tag": "text-to-image",
+      "lastModified": "2024-07-10T11:33:43.000Z",
+      "numParameters": null,
+      "repoType": "model"
+    },
+    {
+      "author": "tencent",
+      "id": "tencent/HunyuanImage-3.0",
+      "downloads": 809570,
+      "likes": 1085,
+      "pipeline_tag": "text-to-image",
+      "lastModified": "2026-01-28T08:14:42.000Z",
+      "numParameters": 83009199459,
+      "repoType": "model"
+    },
+    {
+      "author": "black-forest-labs",
+      "id": "black-forest-labs/FLUX.1-dev",
+      "downloads": 715658,
+      "likes": 12930,
+      "pipeline_tag": "text-to-image",
+      "lastModified": "2025-06-27T16:22:19.000Z",
+      "numParameters": null,
+      "repoType": "model"
+    },
+    {
+      "author": "CompVis",
+      "id": "CompVis/stable-diffusion-v1-4",
+      "downloads": 607501,
+      "likes": 7012,
+      "pipeline_tag": "text-to-image",
+      "lastModified": "2023-08-23T21:15:42.000Z",
+      "numParameters": null,
+      "repoType": "model"
+    },
+    {
+      "author": "SG161222",
+      "id": "SG161222/Realistic_Vision_V5.1_noVAE",
+      "downloads": 602953,
+      "likes": 247,
+      "pipeline_tag": "text-to-image",
+      "lastModified": "2025-10-30T16:55:47.000Z",
+      "numParameters": null,
+      "repoType": "model"
+    },
+    {
+      "author": "black-forest-labs",
+      "id": "black-forest-labs/FLUX.1-schnell",
+      "downloads": 573753,
+      "likes": 4943,
+      "pipeline_tag": "text-to-image",
+      "lastModified": "2024-08-16T14:37:56.000Z",
+      "numParameters": null,
+      "repoType": "model"
+    },
+    {
+      "author": "stabilityai",
+      "id": "stabilityai/sd-turbo",
+      "downloads": 570672,
+      "likes": 450,
+      "pipeline_tag": "text-to-image",
+      "lastModified": "2024-07-10T11:38:51.000Z",
+      "numParameters": null,
+      "repoType": "model"
+    },
+    {
+      "author": "frankjoshua",
+      "id": "frankjoshua/novaAnimeXL_ilV140",
+      "downloads": 490733,
+      "likes": 3,
+      "pipeline_tag": "text-to-image",
+      "lastModified": "2025-12-13T02:34:13.000Z",
+      "numParameters": null,
+      "repoType": "model"
+    },
+    {
+      "author": "diffusers",
+      "id": "diffusers/stable-diffusion-xl-1.0-inpainting-0.1",
+      "downloads": 374388,
+      "likes": 373,
+      "pipeline_tag": "text-to-image",
+      "lastModified": "2023-09-03T16:36:39.000Z",
+      "numParameters": null,
+      "repoType": "model"
+    },
+    {
+      "author": "lightx2v",
+      "id": "lightx2v/Qwen-Image-Lightning",
+      "downloads": 356359,
+      "likes": 800,
+      "pipeline_tag": "text-to-image",
+      "lastModified": "2025-11-03T11:20:08.000Z",
+      "numParameters": null,
+      "repoType": "model"
+    },
+    {
+      "author": "martineux",
+      "id": "martineux/dvine82-xl",
+      "downloads": 349642,
+      "likes": 0,
+      "pipeline_tag": "text-to-image",
+      "lastModified": "2026-02-04T04:46:34.000Z",
+      "numParameters": null,
+      "repoType": "model"
+    },
+    {
+      "author": "stabilityai",
+      "id": "stabilityai/stable-diffusion-3.5-medium",
+      "downloads": 335581,
+      "likes": 948,
+      "pipeline_tag": "text-to-image",
+      "lastModified": "2024-10-31T08:18:43.000Z",
+      "numParameters": null,
+      "repoType": "model"
+    },
+    {
+      "author": "John6666",
+      "id": "John6666/one-obsession-17-red-sdxl",
+      "downloads": 309801,
+      "likes": 3,
+      "pipeline_tag": "text-to-image",
+      "lastModified": "2025-09-18T13:20:00.000Z",
+      "numParameters": null,
+      "repoType": "model"
+    },
+    {
+      "author": "playgroundai",
+      "id": "playgroundai/playground-v2.5-1024px-aesthetic",
+      "downloads": 270416,
+      "likes": 765,
+      "pipeline_tag": "text-to-image",
+      "lastModified": "2024-03-15T00:00:20.000Z",
+      "numParameters": null,
+      "repoType": "model"
+    },
+    {
+      "author": "cagliostrolab",
+      "id": "cagliostrolab/animagine-xl-4.0",
+      "downloads": 234070,
+      "likes": 421,
+      "pipeline_tag": "text-to-image",
+      "lastModified": "2025-02-13T16:16:46.000Z",
+      "numParameters": null,
+      "repoType": "model"
+    },
+    {
+      "author": "segmind",
+      "id": "segmind/small-sd",
+      "downloads": 229768,
+      "likes": 33,
+      "pipeline_tag": "text-to-image",
+      "lastModified": "2023-08-08T07:54:00.000Z",
+      "numParameters": null,
+      "repoType": "model"
+    },
+    {
+      "author": "optimum-intel-internal-testing",
+      "id": "optimum-intel-internal-testing/tiny-stable-diffusion-torch",
+      "downloads": 223356,
+      "likes": 0,
+      "pipeline_tag": "text-to-image",
+      "lastModified": "2025-10-21T10:06:04.000Z",
+      "numParameters": null,
+      "repoType": "model"
+    },
+    {
+      "author": "h94",
+      "id": "h94/IP-Adapter-FaceID",
+      "downloads": 222066,
+      "likes": 1855,
+      "pipeline_tag": "text-to-image",
+      "lastModified": "2024-04-16T08:53:12.000Z",
+      "numParameters": null,
+      "repoType": "model"
+    },
+    {
+      "author": "John6666",
+      "id": "John6666/nova-furry-xl-il-v120-sdxl",
+      "downloads": 205878,
+      "likes": 5,
+      "pipeline_tag": "text-to-image",
+      "lastModified": "2025-10-01T02:46:03.000Z",
+      "numParameters": null,
+      "repoType": "model"
+    },
+    {
+      "author": "optimum-intel-internal-testing",
+      "id": "optimum-intel-internal-testing/tiny-random-stable-diffusion-xl",
+      "downloads": 204540,
+      "likes": 0,
+      "pipeline_tag": "text-to-image",
+      "lastModified": "2025-10-21T10:06:19.000Z",
+      "numParameters": null,
+      "repoType": "model"
+    },
+    {
+      "author": "John6666",
+      "id": "John6666/diving-illustrious-real-asian-v50-sdxl",
+      "downloads": 191320,
+      "likes": 0,
+      "pipeline_tag": "text-to-image",
+      "lastModified": "2025-09-19T23:46:14.000Z",
+      "numParameters": null,
+      "repoType": "model"
+    },
+    {
+      "author": "stabilityai",
+      "id": "stabilityai/stable-diffusion-3-medium-diffusers",
+      "downloads": 185244,
+      "likes": 447,
+      "pipeline_tag": "text-to-image",
+      "lastModified": "2024-06-19T13:47:26.000Z",
+      "numParameters": null,
+      "repoType": "model"
+    },
+    {
+      "author": "stable-diffusion-v1-5",
+      "id": "stable-diffusion-v1-5/stable-diffusion-inpainting",
+      "downloads": 184456,
+      "likes": 107,
+      "pipeline_tag": "text-to-image",
+      "lastModified": "2024-09-06T18:58:07.000Z",
+      "numParameters": null,
+      "repoType": "model"
+    },
+    {
+      "author": "nphSi",
+      "id": "nphSi/Z-Image-Lora",
+      "downloads": 174040,
+      "likes": 101,
+      "pipeline_tag": "text-to-image",
+      "lastModified": "2026-05-27T19:23:07.000Z",
+      "numParameters": null,
+      "repoType": "model"
+    },
+    {
+      "author": "cagliostrolab",
+      "id": "cagliostrolab/animagine-xl-3.1",
+      "downloads": 171772,
+      "likes": 713,
+      "pipeline_tag": "text-to-image",
+      "lastModified": "2025-12-22T04:13:55.000Z",
+      "numParameters": null,
+      "repoType": "model"
+    },
+    {
+      "author": "optimum-intel-internal-testing",
+      "id": "optimum-intel-internal-testing/stable-diffusion-3-tiny-random",
+      "downloads": 171469,
+      "likes": 0,
+      "pipeline_tag": "text-to-image",
+      "lastModified": "2025-10-21T10:06:33.000Z",
+      "numParameters": null,
+      "repoType": "model"
+    },
+    {
+      "author": "LyliaEngine",
+      "id": "LyliaEngine/Pony_Diffusion_V6_XL",
+      "downloads": 171330,
+      "likes": 107,
+      "pipeline_tag": "text-to-image",
+      "lastModified": "2024-05-25T09:45:40.000Z",
+      "numParameters": null,
+      "repoType": "model"
+    }
+  ],
+  "fetchedAt": "2026-05-27T21:44:18.867Z"
+}

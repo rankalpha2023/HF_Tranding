@@ -1,0 +1,309 @@
+{
+  "category": "text-to-image",
+  "sort": "trending",
+  "totalItems": 100369,
+  "fetchedItems": 30,
+  "models": [
+    {
+      "author": "microsoft",
+      "id": "microsoft/Lens",
+      "downloads": 673,
+      "likes": 117,
+      "pipeline_tag": "text-to-image",
+      "lastModified": "2026-05-22T03:09:59.000Z",
+      "numParameters": null,
+      "repoType": "model"
+    },
+    {
+      "author": "microsoft",
+      "id": "microsoft/Lens-Turbo",
+      "downloads": 908,
+      "likes": 115,
+      "pipeline_tag": "text-to-image",
+      "lastModified": "2026-05-22T03:10:02.000Z",
+      "numParameters": null,
+      "repoType": "model"
+    },
+    {
+      "author": "black-forest-labs",
+      "id": "black-forest-labs/FLUX.1-dev",
+      "downloads": 715658,
+      "likes": 12930,
+      "pipeline_tag": "text-to-image",
+      "lastModified": "2025-06-27T16:22:19.000Z",
+      "numParameters": null,
+      "repoType": "model"
+    },
+    {
+      "author": "prism-ml",
+      "id": "prism-ml/bonsai-image-ternary-4B-gemlite-2bit",
+      "downloads": 0,
+      "likes": 45,
+      "pipeline_tag": "text-to-image",
+      "lastModified": "2026-05-26T16:16:59.000Z",
+      "numParameters": null,
+      "repoType": "model"
+    },
+    {
+      "author": "Phr00t",
+      "id": "Phr00t/Qwen-Image-Edit-Rapid-AIO",
+      "downloads": 0,
+      "likes": 2061,
+      "pipeline_tag": "text-to-image",
+      "lastModified": "2026-02-03T02:10:35.000Z",
+      "numParameters": null,
+      "repoType": "model"
+    },
+    {
+      "author": "Tongyi-MAI",
+      "id": "Tongyi-MAI/Z-Image-Turbo",
+      "downloads": 1202919,
+      "likes": 4691,
+      "pipeline_tag": "text-to-image",
+      "lastModified": "2026-01-30T16:58:07.000Z",
+      "numParameters": null,
+      "repoType": "model"
+    },
+    {
+      "author": "prism-ml",
+      "id": "prism-ml/bonsai-image-ternary-4B-mlx-2bit",
+      "downloads": 0,
+      "likes": 30,
+      "pipeline_tag": "text-to-image",
+      "lastModified": "2026-05-26T16:16:59.000Z",
+      "numParameters": null,
+      "repoType": "model"
+    },
+    {
+      "author": "oron1208",
+      "id": "oron1208/OOO_Anima",
+      "downloads": 0,
+      "likes": 29,
+      "pipeline_tag": "text-to-image",
+      "lastModified": "2026-05-21T15:24:20.000Z",
+      "numParameters": null,
+      "repoType": "model"
+    },
+    {
+      "author": "RunDiffusion",
+      "id": "RunDiffusion/Juggernaut-Z-Image",
+      "downloads": 26980,
+      "likes": 105,
+      "pipeline_tag": "text-to-image",
+      "lastModified": "2026-05-13T18:41:56.000Z",
+      "numParameters": 6154908736,
+      "repoType": "model"
+    },
+    {
+      "author": "prism-ml",
+      "id": "prism-ml/bonsai-image-binary-4B-gemlite-1bit",
+      "downloads": 0,
+      "likes": 22,
+      "pipeline_tag": "text-to-image",
+      "lastModified": "2026-05-26T16:16:58.000Z",
+      "numParameters": null,
+      "repoType": "model"
+    },
+    {
+      "author": "SeeSee21",
+      "id": "SeeSee21/Z-Anime",
+      "downloads": 17856,
+      "likes": 443,
+      "pipeline_tag": "text-to-image",
+      "lastModified": "2026-04-27T01:13:30.000Z",
+      "numParameters": 6154908736,
+      "repoType": "model"
+    },
+    {
+      "author": "Tongyi-MAI",
+      "id": "Tongyi-MAI/Z-Image",
+      "downloads": 32639,
+      "likes": 1118,
+      "pipeline_tag": "text-to-image",
+      "lastModified": "2026-01-28T14:26:13.000Z",
+      "numParameters": null,
+      "repoType": "model"
+    },
+    {
+      "author": "prism-ml",
+      "id": "prism-ml/bonsai-image-ternary-4B-unpacked",
+      "downloads": 0,
+      "likes": 17,
+      "pipeline_tag": "text-to-image",
+      "lastModified": "2026-05-26T16:17:00.000Z",
+      "numParameters": null,
+      "repoType": "model"
+    },
+    {
+      "author": "ponpoke",
+      "id": "ponpoke/flux2-klein-9b-uncensored-text-encoder",
+      "downloads": 23026,
+      "likes": 83,
+      "pipeline_tag": "text-to-image",
+      "lastModified": "2026-05-02T11:34:41.000Z",
+      "numParameters": 8190735360,
+      "repoType": "model"
+    },
+    {
+      "author": "unsloth",
+      "id": "unsloth/Z-Image-Turbo-GGUF",
+      "downloads": 55706,
+      "likes": 193,
+      "pipeline_tag": "text-to-image",
+      "lastModified": "2026-01-08T02:11:45.000Z",
+      "numParameters": 6154908736,
+      "repoType": "model"
+    },
+    {
+      "author": "prism-ml",
+      "id": "prism-ml/bonsai-image-binary-4B-unpacked",
+      "downloads": 0,
+      "likes": 14,
+      "pipeline_tag": "text-to-image",
+      "lastModified": "2026-05-26T16:16:58.000Z",
+      "numParameters": null,
+      "repoType": "model"
+    },
+    {
+      "author": "Qwen",
+      "id": "Qwen/Qwen-Image-2512",
+      "downloads": 108072,
+      "likes": 854,
+      "pipeline_tag": "text-to-image",
+      "lastModified": "2025-12-31T09:47:56.000Z",
+      "numParameters": null,
+      "repoType": "model"
+    },
+    {
+      "author": "microsoft",
+      "id": "microsoft/Lens-Base",
+      "downloads": 215,
+      "likes": 14,
+      "pipeline_tag": "text-to-image",
+      "lastModified": "2026-05-22T03:10:01.000Z",
+      "numParameters": null,
+      "repoType": "model"
+    },
+    {
+      "author": "prism-ml",
+      "id": "prism-ml/bonsai-image-binary-4B-mlx-1bit",
+      "downloads": 0,
+      "likes": 13,
+      "pipeline_tag": "text-to-image",
+      "lastModified": "2026-05-26T16:16:57.000Z",
+      "numParameters": null,
+      "repoType": "model"
+    },
+    {
+      "author": "black-forest-labs",
+      "id": "black-forest-labs/FLUX.1-schnell",
+      "downloads": 573753,
+      "likes": 4943,
+      "pipeline_tag": "text-to-image",
+      "lastModified": "2024-08-16T14:37:56.000Z",
+      "numParameters": null,
+      "repoType": "model"
+    },
+    {
+      "author": "stabilityai",
+      "id": "stabilityai/stable-diffusion-3.5-large",
+      "downloads": 34229,
+      "likes": 3498,
+      "pipeline_tag": "text-to-image",
+      "lastModified": "2024-10-22T14:36:33.000Z",
+      "numParameters": null,
+      "repoType": "model"
+    },
+    {
+      "author": "Abiray",
+      "id": "Abiray/L2P-model-1k-merge-INT8",
+      "downloads": 0,
+      "likes": 11,
+      "pipeline_tag": "text-to-image",
+      "lastModified": "2026-05-23T17:24:01.000Z",
+      "numParameters": null,
+      "repoType": "model"
+    },
+    {
+      "author": "tsolful",
+      "id": "tsolful/Z-Image-L2P-INT8",
+      "downloads": 0,
+      "likes": 9,
+      "pipeline_tag": "text-to-image",
+      "lastModified": "2026-05-26T05:28:12.000Z",
+      "numParameters": null,
+      "repoType": "model"
+    },
+    {
+      "author": "RunDiffusion",
+      "id": "RunDiffusion/Juggernaut-XL-v9",
+      "downloads": 135745,
+      "likes": 343,
+      "pipeline_tag": "text-to-image",
+      "lastModified": "2026-05-08T17:14:44.000Z",
+      "numParameters": null,
+      "repoType": "model"
+    },
+    {
+      "author": "stable-diffusion-v1-5",
+      "id": "stable-diffusion-v1-5/stable-diffusion-v1-5",
+      "downloads": 1750943,
+      "likes": 1126,
+      "pipeline_tag": "text-to-image",
+      "lastModified": "2024-09-07T16:20:30.000Z",
+      "numParameters": null,
+      "repoType": "model"
+    },
+    {
+      "author": "nvidia",
+      "id": "nvidia/PixelDiT-1300M-1024px",
+      "downloads": 53,
+      "likes": 28,
+      "pipeline_tag": "text-to-image",
+      "lastModified": "2026-04-15T21:45:01.000Z",
+      "numParameters": null,
+      "repoType": "model"
+    },
+    {
+      "author": "Danrisi",
+      "id": "Danrisi/UltraReal_FineTune_Anima_base1",
+      "downloads": 624,
+      "likes": 9,
+      "pipeline_tag": "text-to-image",
+      "lastModified": "2026-05-22T13:40:23.000Z",
+      "numParameters": null,
+      "repoType": "model"
+    },
+    {
+      "author": "Lakonik",
+      "id": "Lakonik/AsymFLUX.2-klein-9B",
+      "downloads": 5499,
+      "likes": 62,
+      "pipeline_tag": "text-to-image",
+      "lastModified": "2026-05-14T02:37:15.000Z",
+      "numParameters": null,
+      "repoType": "model"
+    },
+    {
+      "author": "Disty0",
+      "id": "Disty0/RaiFlow-v0_01-256px-rough-pre-train",
+      "downloads": 105,
+      "likes": 7,
+      "pipeline_tag": "text-to-image",
+      "lastModified": "2026-05-27T17:40:48.000Z",
+      "numParameters": null,
+      "repoType": "model"
+    },
+    {
+      "author": "stabilityai",
+      "id": "stabilityai/stable-diffusion-xl-base-1.0",
+      "downloads": 1867569,
+      "likes": 7754,
+      "pipeline_tag": "text-to-image",
+      "lastModified": "2023-10-30T16:03:47.000Z",
+      "numParameters": null,
+      "repoType": "model"
+    }
+  ],
+  "fetchedAt": "2026-05-27T21:44:16.860Z"
+}
