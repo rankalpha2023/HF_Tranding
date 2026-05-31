@@ -1,0 +1,309 @@
+{
+  "category": "image-classification",
+  "sort": "trending",
+  "totalItems": 27071,
+  "fetchedItems": 30,
+  "models": [
+    {
+      "author": "Camais03",
+      "id": "Camais03/camie-tagger-v2",
+      "downloads": 159,
+      "likes": 71,
+      "pipeline_tag": "image-classification",
+      "lastModified": "2026-01-01T16:37:32.000Z",
+      "numParameters": null,
+      "repoType": "model"
+    },
+    {
+      "author": "pixai-labs",
+      "id": "pixai-labs/pixai-tagger-v0.9",
+      "downloads": 0,
+      "likes": 163,
+      "pipeline_tag": "image-classification",
+      "lastModified": "2025-09-11T09:38:59.000Z",
+      "numParameters": null,
+      "repoType": "model"
+    },
+    {
+      "author": "Grio43",
+      "id": "Grio43/OppaiOracle",
+      "downloads": 270,
+      "likes": 38,
+      "pipeline_tag": "image-classification",
+      "lastModified": "2026-05-10T01:13:14.000Z",
+      "numParameters": null,
+      "repoType": "model"
+    },
+    {
+      "author": "facebook",
+      "id": "facebook/convnext-base-224-22k-1k",
+      "downloads": 2369,
+      "likes": 7,
+      "pipeline_tag": "image-classification",
+      "lastModified": "2023-09-04T21:09:35.000Z",
+      "numParameters": 88591464,
+      "repoType": "model"
+    },
+    {
+      "author": "facebook",
+      "id": "facebook/convnext-tiny-224",
+      "downloads": 54075,
+      "likes": 26,
+      "pipeline_tag": "image-classification",
+      "lastModified": "2023-06-13T19:40:31.000Z",
+      "numParameters": null,
+      "repoType": "model"
+    },
+    {
+      "author": "timm",
+      "id": "timm/mobilenetv3_small_100.lamb_in1k",
+      "downloads": 9035869,
+      "likes": 76,
+      "pipeline_tag": "image-classification",
+      "lastModified": "2025-10-19T16:12:11.000Z",
+      "numParameters": 2554968,
+      "repoType": "model"
+    },
+    {
+      "author": "timm",
+      "id": "timm/eva02_large_patch14_448.mim_m38m_ft_in22k_in1k",
+      "downloads": 13018,
+      "likes": 24,
+      "pipeline_tag": "image-classification",
+      "lastModified": "2025-01-21T21:37:25.000Z",
+      "numParameters": null,
+      "repoType": "model"
+    },
+    {
+      "author": "fancyfeast",
+      "id": "fancyfeast/joytag",
+      "downloads": 647,
+      "likes": 117,
+      "pipeline_tag": "image-classification",
+      "lastModified": "2024-03-09T04:09:40.000Z",
+      "numParameters": 91498430,
+      "repoType": "model"
+    },
+    {
+      "author": "animetimm",
+      "id": "animetimm/convnextv2_huge.dbv4-full",
+      "downloads": 2026,
+      "likes": 24,
+      "pipeline_tag": "image-classification",
+      "lastModified": "2025-10-22T14:54:23.000Z",
+      "numParameters": null,
+      "repoType": "model"
+    },
+    {
+      "author": "lodestones",
+      "id": "lodestones/taggerine",
+      "downloads": 0,
+      "likes": 45,
+      "pipeline_tag": "image-classification",
+      "lastModified": "2026-04-28T12:25:03.000Z",
+      "numParameters": null,
+      "repoType": "model"
+    },
+    {
+      "author": "Falconsai",
+      "id": "Falconsai/nsfw_image_detection",
+      "downloads": 8826637,
+      "likes": 1085,
+      "pipeline_tag": "image-classification",
+      "lastModified": "2025-04-06T13:42:07.000Z",
+      "numParameters": 85800194,
+      "repoType": "model"
+    },
+    {
+      "author": "WinKawaks",
+      "id": "WinKawaks/vit-small-patch16-224",
+      "downloads": 12388,
+      "likes": 26,
+      "pipeline_tag": "image-classification",
+      "lastModified": "2025-03-04T10:24:06.000Z",
+      "numParameters": 22050664,
+      "repoType": "model"
+    },
+    {
+      "author": "facebook",
+      "id": "facebook/deit-tiny-patch16-224",
+      "downloads": 92235,
+      "likes": 13,
+      "pipeline_tag": "image-classification",
+      "lastModified": "2022-07-13T11:53:31.000Z",
+      "numParameters": null,
+      "repoType": "model"
+    },
+    {
+      "author": "microsoft",
+      "id": "microsoft/swin-base-patch4-window12-384",
+      "downloads": 2623,
+      "likes": 7,
+      "pipeline_tag": "image-classification",
+      "lastModified": "2022-05-16T18:32:57.000Z",
+      "numParameters": null,
+      "repoType": "model"
+    },
+    {
+      "author": "microsoft",
+      "id": "microsoft/swin-tiny-patch4-window7-224",
+      "downloads": 34526,
+      "likes": 53,
+      "pipeline_tag": "image-classification",
+      "lastModified": "2023-09-15T19:59:37.000Z",
+      "numParameters": 28317166,
+      "repoType": "model"
+    },
+    {
+      "author": "Filimize",
+      "id": "Filimize/Dog_Breed_Classification",
+      "downloads": 8,
+      "likes": 1,
+      "pipeline_tag": "image-classification",
+      "lastModified": "2022-09-10T00:46:46.000Z",
+      "numParameters": null,
+      "repoType": "model"
+    },
+    {
+      "author": "timm",
+      "id": "timm/tf_efficientnet_b3.ns_jft_in1k",
+      "downloads": 98192,
+      "likes": 2,
+      "pipeline_tag": "image-classification",
+      "lastModified": "2025-01-21T18:18:43.000Z",
+      "numParameters": null,
+      "repoType": "model"
+    },
+    {
+      "author": "facebook",
+      "id": "facebook/convnextv2-tiny-22k-384",
+      "downloads": 36033,
+      "likes": 5,
+      "pipeline_tag": "image-classification",
+      "lastModified": "2025-02-17T18:43:21.000Z",
+      "numParameters": 28635496,
+      "repoType": "model"
+    },
+    {
+      "author": "timm",
+      "id": "timm/swin_large_patch4_window12_384.ms_in22k",
+      "downloads": 502,
+      "likes": 2,
+      "pipeline_tag": "image-classification",
+      "lastModified": "2025-01-21T21:17:55.000Z",
+      "numParameters": null,
+      "repoType": "model"
+    },
+    {
+      "author": "timm",
+      "id": "timm/resnext101_32x8d.fb_swsl_ig1b_ft_in1k",
+      "downloads": 333,
+      "likes": 2,
+      "pipeline_tag": "image-classification",
+      "lastModified": "2025-01-21T21:44:10.000Z",
+      "numParameters": null,
+      "repoType": "model"
+    },
+    {
+      "author": "wesleyacheng",
+      "id": "wesleyacheng/dog-breeds-multiclass-image-classification-with-vit",
+      "downloads": 852,
+      "likes": 9,
+      "pipeline_tag": "image-classification",
+      "lastModified": "2023-07-15T08:15:45.000Z",
+      "numParameters": 85890936,
+      "repoType": "model"
+    },
+    {
+      "author": "timm",
+      "id": "timm/efficientvit_m0.r224_in1k",
+      "downloads": 804,
+      "likes": 1,
+      "pipeline_tag": "image-classification",
+      "lastModified": "2025-01-21T19:20:06.000Z",
+      "numParameters": null,
+      "repoType": "model"
+    },
+    {
+      "author": "apple",
+      "id": "apple/AIM",
+      "downloads": 0,
+      "likes": 91,
+      "pipeline_tag": "image-classification",
+      "lastModified": "2025-02-28T18:31:03.000Z",
+      "numParameters": null,
+      "repoType": "model"
+    },
+    {
+      "author": "qualcomm",
+      "id": "qualcomm/MobileNet-v3-Small",
+      "downloads": 161,
+      "likes": 5,
+      "pipeline_tag": "image-classification",
+      "lastModified": "2026-05-19T22:07:33.000Z",
+      "numParameters": null,
+      "repoType": "model"
+    },
+    {
+      "author": "Anwarkh1",
+      "id": "Anwarkh1/Skin_Cancer-Image_Classification",
+      "downloads": 1455,
+      "likes": 41,
+      "pipeline_tag": "image-classification",
+      "lastModified": "2024-03-19T10:58:56.000Z",
+      "numParameters": 85804039,
+      "repoType": "model"
+    },
+    {
+      "author": "howdyaendra",
+      "id": "howdyaendra/xblock-social-screenshots-1",
+      "downloads": 7,
+      "likes": 1,
+      "pipeline_tag": "image-classification",
+      "lastModified": "2024-03-31T21:33:17.000Z",
+      "numParameters": 85800194,
+      "repoType": "model"
+    },
+    {
+      "author": "al-css",
+      "id": "al-css/Screenshots_detection_to_classification",
+      "downloads": 29,
+      "likes": 3,
+      "pipeline_tag": "image-classification",
+      "lastModified": "2024-08-22T00:04:35.000Z",
+      "numParameters": 85800194,
+      "repoType": "model"
+    },
+    {
+      "author": "prithivMLmods",
+      "id": "prithivMLmods/open-scene-detection",
+      "downloads": 6,
+      "likes": 4,
+      "pipeline_tag": "image-classification",
+      "lastModified": "2025-05-22T11:41:50.000Z",
+      "numParameters": 92888838,
+      "repoType": "model"
+    },
+    {
+      "author": "cella110n",
+      "id": "cella110n/cl_tagger",
+      "downloads": 0,
+      "likes": 41,
+      "pipeline_tag": "image-classification",
+      "lastModified": "2025-09-04T16:28:59.000Z",
+      "numParameters": null,
+      "repoType": "model"
+    },
+    {
+      "author": "deepghs",
+      "id": "deepghs/pixai-tagger-v0.9-onnx",
+      "downloads": 0,
+      "likes": 42,
+      "pipeline_tag": "image-classification",
+      "lastModified": "2025-09-11T12:09:03.000Z",
+      "numParameters": null,
+      "repoType": "model"
+    }
+  ],
+  "fetchedAt": "2026-05-31T20:46:17.916Z"
+}

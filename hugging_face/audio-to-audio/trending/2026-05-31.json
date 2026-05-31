@@ -1,0 +1,309 @@
+{
+  "category": "audio-to-audio",
+  "sort": "trending",
+  "totalItems": 1142,
+  "fetchedItems": 30,
+  "models": [
+    {
+      "author": "daydreamlive",
+      "id": "daydreamlive/DreamVAE",
+      "downloads": 28,
+      "likes": 11,
+      "pipeline_tag": "audio-to-audio",
+      "lastModified": "2026-04-22T15:11:47.000Z",
+      "numParameters": 51690114,
+      "repoType": "model"
+    },
+    {
+      "author": "LiquidAI",
+      "id": "LiquidAI/LFM2.5-Audio-1.5B",
+      "downloads": 1208,
+      "likes": 416,
+      "pipeline_tag": "audio-to-audio",
+      "lastModified": "2026-03-30T14:43:52.000Z",
+      "numParameters": 1470308496,
+      "repoType": "model"
+    },
+    {
+      "author": "nvidia",
+      "id": "nvidia/personaplex-7b-v1",
+      "downloads": 350406,
+      "likes": 2516,
+      "pipeline_tag": "audio-to-audio",
+      "lastModified": "2026-03-02T18:03:29.000Z",
+      "numParameters": 8371408896,
+      "repoType": "model"
+    },
+    {
+      "author": "Qwen",
+      "id": "Qwen/Qwen3-TTS-Tokenizer-12Hz",
+      "downloads": 57341,
+      "likes": 68,
+      "pipeline_tag": "audio-to-audio",
+      "lastModified": "2026-01-29T08:01:28.000Z",
+      "numParameters": 170557441,
+      "repoType": "model"
+    },
+    {
+      "author": "blaise-tk",
+      "id": "blaise-tk/TITAN",
+      "downloads": 16,
+      "likes": 69,
+      "pipeline_tag": "audio-to-audio",
+      "lastModified": "2024-08-19T15:01:14.000Z",
+      "numParameters": null,
+      "repoType": "model"
+    },
+    {
+      "author": "aufklarer",
+      "id": "aufklarer/PersonaPlex-7B-MLX-8bit",
+      "downloads": 198,
+      "likes": 8,
+      "pipeline_tag": "audio-to-audio",
+      "lastModified": "2026-04-12T08:10:01.000Z",
+      "numParameters": null,
+      "repoType": "model"
+    },
+    {
+      "author": "mispeech",
+      "id": "mispeech/dasheng-denoiser",
+      "downloads": 91,
+      "likes": 10,
+      "pipeline_tag": "audio-to-audio",
+      "lastModified": "2026-04-21T06:03:45.000Z",
+      "numParameters": 119006018,
+      "repoType": "model"
+    },
+    {
+      "author": "detail-co",
+      "id": "detail-co/clear",
+      "downloads": 0,
+      "likes": 4,
+      "pipeline_tag": "audio-to-audio",
+      "lastModified": "2026-05-29T08:17:00.000Z",
+      "numParameters": null,
+      "repoType": "model"
+    },
+    {
+      "author": "bovod-sjtu",
+      "id": "bovod-sjtu/HoliTok",
+      "downloads": 0,
+      "likes": 2,
+      "pipeline_tag": "audio-to-audio",
+      "lastModified": "2026-05-28T07:14:33.000Z",
+      "numParameters": null,
+      "repoType": "model"
+    },
+    {
+      "author": "maitrix-org",
+      "id": "maitrix-org/Voila-Tokenizer",
+      "downloads": 349,
+      "likes": 8,
+      "pipeline_tag": "audio-to-audio",
+      "lastModified": "2025-05-06T14:51:20.000Z",
+      "numParameters": 59690182,
+      "repoType": "model"
+    },
+    {
+      "author": "maitrix-org",
+      "id": "maitrix-org/Voila-autonomous-preview",
+      "downloads": 153,
+      "likes": 19,
+      "pipeline_tag": "audio-to-audio",
+      "lastModified": "2025-05-06T14:50:55.000Z",
+      "numParameters": 8158733314,
+      "repoType": "model"
+    },
+    {
+      "author": "amaai-lab",
+      "id": "amaai-lab/SonicMaster",
+      "downloads": 0,
+      "likes": 20,
+      "pipeline_tag": "audio-to-audio",
+      "lastModified": "2025-08-25T03:25:45.000Z",
+      "numParameters": 862987328,
+      "repoType": "model"
+    },
+    {
+      "author": "inclusionAI",
+      "id": "inclusionAI/Ming-omni-tts-tokenizer-12Hz",
+      "downloads": 69,
+      "likes": 12,
+      "pipeline_tag": "audio-to-audio",
+      "lastModified": "2026-02-25T08:05:03.000Z",
+      "numParameters": 780389010,
+      "repoType": "model"
+    },
+    {
+      "author": "MansfieldPlumbing",
+      "id": "MansfieldPlumbing/Demucs_v4_TRT",
+      "downloads": 867,
+      "likes": 3,
+      "pipeline_tag": "audio-to-audio",
+      "lastModified": "2026-02-20T06:23:51.000Z",
+      "numParameters": null,
+      "repoType": "model"
+    },
+    {
+      "author": "tencent",
+      "id": "tencent/Covo-Audio-Chat",
+      "downloads": 10598,
+      "likes": 95,
+      "pipeline_tag": "audio-to-audio",
+      "lastModified": "2026-03-16T09:59:16.000Z",
+      "numParameters": 8402417920,
+      "repoType": "model"
+    },
+    {
+      "author": "kyutai",
+      "id": "kyutai/moshika-rag-pytorch-bf16",
+      "downloads": 820,
+      "likes": 6,
+      "pipeline_tag": "audio-to-audio",
+      "lastModified": "2026-04-17T07:07:35.000Z",
+      "numParameters": 7704580144,
+      "repoType": "model"
+    },
+    {
+      "author": "richiejp",
+      "id": "richiejp/deepvqe-aec-gguf",
+      "downloads": 104,
+      "likes": 2,
+      "pipeline_tag": "audio-to-audio",
+      "lastModified": "2026-04-27T11:41:09.000Z",
+      "numParameters": 7970973,
+      "repoType": "model"
+    },
+    {
+      "author": "tjpurdy",
+      "id": "tjpurdy/Piano-Separation-Model-small",
+      "downloads": 7,
+      "likes": 1,
+      "pipeline_tag": "audio-to-audio",
+      "lastModified": "2026-04-05T16:31:05.000Z",
+      "numParameters": 8801536,
+      "repoType": "model"
+    },
+    {
+      "author": "LocalAI-io",
+      "id": "LocalAI-io/LocalVQE",
+      "downloads": 2577,
+      "likes": 35,
+      "pipeline_tag": "audio-to-audio",
+      "lastModified": "2026-05-29T10:43:26.000Z",
+      "numParameters": 1289019,
+      "repoType": "model"
+    },
+    {
+      "author": "mlx-community",
+      "id": "mlx-community/mel-roformer-kim-vocal-2-mlx",
+      "downloads": 127,
+      "likes": 6,
+      "pipeline_tag": "audio-to-audio",
+      "lastModified": "2026-05-01T15:37:43.000Z",
+      "numParameters": 228203172,
+      "repoType": "model"
+    },
+    {
+      "author": "matbee",
+      "id": "matbee/lfm2.5-audio-tool-aware-v4.1",
+      "downloads": 43,
+      "likes": 2,
+      "pipeline_tag": "audio-to-audio",
+      "lastModified": "2026-05-22T03:23:17.000Z",
+      "numParameters": 1453523088,
+      "repoType": "model"
+    },
+    {
+      "author": "IAHispano",
+      "id": "IAHispano/Applio",
+      "downloads": 108,
+      "likes": 173,
+      "pipeline_tag": "audio-to-audio",
+      "lastModified": "2026-02-25T23:33:36.000Z",
+      "numParameters": null,
+      "repoType": "model"
+    },
+    {
+      "author": "JorisCos",
+      "id": "JorisCos/ConvTasNet_Libri1Mix_enhsingle_16k",
+      "downloads": 120,
+      "likes": 4,
+      "pipeline_tag": "audio-to-audio",
+      "lastModified": "2021-09-23T15:48:51.000Z",
+      "numParameters": null,
+      "repoType": "model"
+    },
+    {
+      "author": "JorisCos",
+      "id": "JorisCos/ConvTasNet_Libri2Mix_sepclean_16k",
+      "downloads": 4827,
+      "likes": 4,
+      "pipeline_tag": "audio-to-audio",
+      "lastModified": "2021-09-23T15:48:54.000Z",
+      "numParameters": null,
+      "repoType": "model"
+    },
+    {
+      "author": "JorisCos",
+      "id": "JorisCos/ConvTasNet_Libri2Mix_sepclean_8k",
+      "downloads": 708,
+      "likes": 1,
+      "pipeline_tag": "audio-to-audio",
+      "lastModified": "2021-09-23T15:48:56.000Z",
+      "numParameters": null,
+      "repoType": "model"
+    },
+    {
+      "author": "JorisCos",
+      "id": "JorisCos/ConvTasNet_Libri2Mix_sepnoisy_16k",
+      "downloads": 703,
+      "likes": 1,
+      "pipeline_tag": "audio-to-audio",
+      "lastModified": "2021-09-23T15:48:58.000Z",
+      "numParameters": null,
+      "repoType": "model"
+    },
+    {
+      "author": "JorisCos",
+      "id": "JorisCos/ConvTasNet_Libri2Mix_sepnoisy_8k",
+      "downloads": 108,
+      "likes": 1,
+      "pipeline_tag": "audio-to-audio",
+      "lastModified": "2021-09-23T15:49:01.000Z",
+      "numParameters": null,
+      "repoType": "model"
+    },
+    {
+      "author": "JorisCos",
+      "id": "JorisCos/ConvTasNet_Libri3Mix_sepclean_16k",
+      "downloads": 651,
+      "likes": 0,
+      "pipeline_tag": "audio-to-audio",
+      "lastModified": "2021-09-23T15:49:03.000Z",
+      "numParameters": null,
+      "repoType": "model"
+    },
+    {
+      "author": "JorisCos",
+      "id": "JorisCos/ConvTasNet_Libri3Mix_sepclean_8k",
+      "downloads": 37,
+      "likes": 0,
+      "pipeline_tag": "audio-to-audio",
+      "lastModified": "2021-09-23T15:49:06.000Z",
+      "numParameters": null,
+      "repoType": "model"
+    },
+    {
+      "author": "JorisCos",
+      "id": "JorisCos/ConvTasNet_Libri3Mix_sepnoisy_16k",
+      "downloads": 392,
+      "likes": 1,
+      "pipeline_tag": "audio-to-audio",
+      "lastModified": "2021-09-23T15:49:08.000Z",
+      "numParameters": null,
+      "repoType": "model"
+    }
+  ],
+  "fetchedAt": "2026-05-31T20:46:03.077Z"
+}

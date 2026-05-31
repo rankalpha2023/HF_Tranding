@@ -1,0 +1,309 @@
+{
+  "category": "image-segmentation",
+  "sort": "trending",
+  "totalItems": 2674,
+  "fetchedItems": 30,
+  "models": [
+    {
+      "author": "briaai",
+      "id": "briaai/RMBG-2.0",
+      "downloads": 714389,
+      "likes": 1226,
+      "pipeline_tag": "image-segmentation",
+      "lastModified": "2026-04-06T15:27:43.000Z",
+      "numParameters": 220700242,
+      "repoType": "model"
+    },
+    {
+      "author": "Roboflow",
+      "id": "Roboflow/rf-detr-segmentation",
+      "downloads": 86,
+      "likes": 12,
+      "pipeline_tag": "image-segmentation",
+      "lastModified": "2026-05-20T16:47:13.000Z",
+      "numParameters": 34153555,
+      "repoType": "model"
+    },
+    {
+      "author": "briaai",
+      "id": "briaai/RMBG-1.4",
+      "downloads": 310912,
+      "likes": 1981,
+      "pipeline_tag": "image-segmentation",
+      "lastModified": "2025-07-06T08:27:49.000Z",
+      "numParameters": 44075590,
+      "repoType": "model"
+    },
+    {
+      "author": "PaddlePaddle",
+      "id": "PaddlePaddle/PP-DocLayoutV3",
+      "downloads": 26886,
+      "likes": 80,
+      "pipeline_tag": "image-segmentation",
+      "lastModified": "2026-01-30T19:28:11.000Z",
+      "numParameters": null,
+      "repoType": "model"
+    },
+    {
+      "author": "Roboflow",
+      "id": "Roboflow/rf-detr-seg-xxlarge",
+      "downloads": 331,
+      "likes": 4,
+      "pipeline_tag": "image-segmentation",
+      "lastModified": "2026-05-20T16:47:12.000Z",
+      "numParameters": 38648163,
+      "repoType": "model"
+    },
+    {
+      "author": "ZhengPeng7",
+      "id": "ZhengPeng7/BiRefNet",
+      "downloads": 945422,
+      "likes": 587,
+      "pipeline_tag": "image-segmentation",
+      "lastModified": "2026-02-04T22:43:55.000Z",
+      "numParameters": 220700242,
+      "repoType": "model"
+    },
+    {
+      "author": "Roboflow",
+      "id": "Roboflow/rf-detr-seg-preview",
+      "downloads": 38,
+      "likes": 2,
+      "pipeline_tag": "image-segmentation",
+      "lastModified": "2026-05-20T16:47:07.000Z",
+      "numParameters": 34153555,
+      "repoType": "model"
+    },
+    {
+      "author": "Roboflow",
+      "id": "Roboflow/rf-detr-seg-nano",
+      "downloads": 130,
+      "likes": 2,
+      "pipeline_tag": "image-segmentation",
+      "lastModified": "2026-05-20T16:47:08.000Z",
+      "numParameters": 33577475,
+      "repoType": "model"
+    },
+    {
+      "author": "Roboflow",
+      "id": "Roboflow/rf-detr-seg-large",
+      "downloads": 40,
+      "likes": 2,
+      "pipeline_tag": "image-segmentation",
+      "lastModified": "2026-05-20T16:47:11.000Z",
+      "numParameters": 36211971,
+      "repoType": "model"
+    },
+    {
+      "author": "facebook",
+      "id": "facebook/maskformer-swin-tiny-coco",
+      "downloads": 1214,
+      "likes": 7,
+      "pipeline_tag": "image-segmentation",
+      "lastModified": "2023-09-07T15:34:36.000Z",
+      "numParameters": 41783122,
+      "repoType": "model"
+    },
+    {
+      "author": "nvidia",
+      "id": "nvidia/segformer-b0-finetuned-ade-512-512",
+      "downloads": 346102,
+      "likes": 188,
+      "pipeline_tag": "image-segmentation",
+      "lastModified": "2024-01-14T10:46:46.000Z",
+      "numParameters": 3753206,
+      "repoType": "model"
+    },
+    {
+      "author": "skytnt",
+      "id": "skytnt/anime-seg",
+      "downloads": 764,
+      "likes": 54,
+      "pipeline_tag": "image-segmentation",
+      "lastModified": "2024-10-18T08:01:38.000Z",
+      "numParameters": 50962636,
+      "repoType": "model"
+    },
+    {
+      "author": "mattmdjaga",
+      "id": "mattmdjaga/segformer_b2_clothes",
+      "downloads": 300280,
+      "likes": 501,
+      "pipeline_tag": "image-segmentation",
+      "lastModified": "2025-09-19T07:21:11.000Z",
+      "numParameters": 27362002,
+      "repoType": "model"
+    },
+    {
+      "author": "Xpitfire",
+      "id": "Xpitfire/segformer-finetuned-segments-cmp-facade",
+      "downloads": 22752,
+      "likes": 4,
+      "pipeline_tag": "image-segmentation",
+      "lastModified": "2023-01-15T09:57:34.000Z",
+      "numParameters": null,
+      "repoType": "model"
+    },
+    {
+      "author": "onnx-community",
+      "id": "onnx-community/BiRefNet-ONNX",
+      "downloads": 325,
+      "likes": 14,
+      "pipeline_tag": "image-segmentation",
+      "lastModified": "2025-03-07T11:29:49.000Z",
+      "numParameters": null,
+      "repoType": "model"
+    },
+    {
+      "author": "wanglab",
+      "id": "wanglab/MedSAM2",
+      "downloads": 105,
+      "likes": 41,
+      "pipeline_tag": "image-segmentation",
+      "lastModified": "2025-07-10T23:00:50.000Z",
+      "numParameters": null,
+      "repoType": "model"
+    },
+    {
+      "author": "AtlasAnalyticsLab",
+      "id": "AtlasAnalyticsLab/AtlasPatch",
+      "downloads": 0,
+      "likes": 4,
+      "pipeline_tag": "image-segmentation",
+      "lastModified": "2026-02-06T12:31:10.000Z",
+      "numParameters": null,
+      "repoType": "model"
+    },
+    {
+      "author": "fashn-ai",
+      "id": "fashn-ai/fashn-human-parser",
+      "downloads": 43228,
+      "likes": 25,
+      "pipeline_tag": "image-segmentation",
+      "lastModified": "2026-01-10T20:50:06.000Z",
+      "numParameters": 64008402,
+      "repoType": "model"
+    },
+    {
+      "author": "vietanhdev",
+      "id": "vietanhdev/segment-anything-3-onnx-models",
+      "downloads": 0,
+      "likes": 14,
+      "pipeline_tag": "image-segmentation",
+      "lastModified": "2026-05-03T06:00:17.000Z",
+      "numParameters": null,
+      "repoType": "model"
+    },
+    {
+      "author": "MaryPazRB",
+      "id": "MaryPazRB/Paper_CLR_CV",
+      "downloads": 0,
+      "likes": 1,
+      "pipeline_tag": "image-segmentation",
+      "lastModified": "2026-03-26T18:39:32.000Z",
+      "numParameters": null,
+      "repoType": "model"
+    },
+    {
+      "author": "briaai",
+      "id": "briaai/VRMBG-3.0",
+      "downloads": 20,
+      "likes": 9,
+      "pipeline_tag": "image-segmentation",
+      "lastModified": "2026-05-20T10:15:58.000Z",
+      "numParameters": 220709458,
+      "repoType": "model"
+    },
+    {
+      "author": "Roboflow",
+      "id": "Roboflow/rf-detr-seg-medium",
+      "downloads": 592,
+      "likes": 1,
+      "pipeline_tag": "image-segmentation",
+      "lastModified": "2026-05-20T16:47:10.000Z",
+      "numParameters": 35694259,
+      "repoType": "model"
+    },
+    {
+      "author": "facebook",
+      "id": "facebook/sapiens2-matting-1b",
+      "downloads": 0,
+      "likes": 4,
+      "pipeline_tag": "image-segmentation",
+      "lastModified": "2026-05-15T22:48:12.000Z",
+      "numParameters": null,
+      "repoType": "model"
+    },
+    {
+      "author": "StanfordAIMI",
+      "id": "StanfordAIMI/MASS",
+      "downloads": 0,
+      "likes": 2,
+      "pipeline_tag": "image-segmentation",
+      "lastModified": "2026-05-17T05:53:23.000Z",
+      "numParameters": null,
+      "repoType": "model"
+    },
+    {
+      "author": "avbiswas",
+      "id": "avbiswas/sam2.1-hiera-small-mlx",
+      "downloads": 0,
+      "likes": 3,
+      "pipeline_tag": "image-segmentation",
+      "lastModified": "2026-05-19T05:35:55.000Z",
+      "numParameters": 52341201,
+      "repoType": "model"
+    },
+    {
+      "author": "rookiexiong",
+      "id": "rookiexiong/SetCon-8B",
+      "downloads": 85,
+      "likes": 4,
+      "pipeline_tag": "image-segmentation",
+      "lastModified": "2026-05-20T03:40:32.000Z",
+      "numParameters": null,
+      "repoType": "model"
+    },
+    {
+      "author": "Narsil",
+      "id": "Narsil/pet-segmentation",
+      "downloads": 37,
+      "likes": 10,
+      "pipeline_tag": "image-segmentation",
+      "lastModified": "2021-11-29T16:23:29.000Z",
+      "numParameters": null,
+      "repoType": "model"
+    },
+    {
+      "author": "facebook",
+      "id": "facebook/detr-resnet-101-panoptic",
+      "downloads": 90,
+      "likes": 17,
+      "pipeline_tag": "image-segmentation",
+      "lastModified": "2024-03-30T14:16:45.000Z",
+      "numParameters": 62049880,
+      "repoType": "model"
+    },
+    {
+      "author": "facebook",
+      "id": "facebook/detr-resnet-50-dc5-panoptic",
+      "downloads": 39,
+      "likes": 3,
+      "pipeline_tag": "image-segmentation",
+      "lastModified": "2023-09-11T20:45:44.000Z",
+      "numParameters": 43005528,
+      "repoType": "model"
+    },
+    {
+      "author": "facebook",
+      "id": "facebook/detr-resnet-50-panoptic",
+      "downloads": 19609,
+      "likes": 138,
+      "pipeline_tag": "image-segmentation",
+      "lastModified": "2024-04-10T14:14:21.000Z",
+      "numParameters": null,
+      "repoType": "model"
+    }
+  ],
+  "fetchedAt": "2026-05-31T20:46:24.219Z"
+}
