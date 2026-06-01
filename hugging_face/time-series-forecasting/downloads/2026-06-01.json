@@ -1,0 +1,309 @@
+{
+  "category": "time-series-forecasting",
+  "sort": "downloads",
+  "totalItems": 725,
+  "fetchedItems": 30,
+  "models": [
+    {
+      "author": "autogluon",
+      "id": "autogluon/chronos-2",
+      "downloads": 13897287,
+      "likes": 26,
+      "pipeline_tag": "time-series-forecasting",
+      "lastModified": "2025-11-24T21:38:47.000Z",
+      "numParameters": 119477664,
+      "repoType": "model"
+    },
+    {
+      "author": "amazon",
+      "id": "amazon/chronos-2",
+      "downloads": 13528892,
+      "likes": 304,
+      "pipeline_tag": "time-series-forecasting",
+      "lastModified": "2026-01-06T09:44:02.000Z",
+      "numParameters": 119477664,
+      "repoType": "model"
+    },
+    {
+      "author": "autogluon",
+      "id": "autogluon/chronos-bolt-small",
+      "downloads": 8713898,
+      "likes": 39,
+      "pipeline_tag": "time-series-forecasting",
+      "lastModified": "2025-10-30T09:20:15.000Z",
+      "numParameters": 47718016,
+      "repoType": "model"
+    },
+    {
+      "author": "amazon",
+      "id": "amazon/chronos-bolt-base",
+      "downloads": 3508998,
+      "likes": 90,
+      "pipeline_tag": "time-series-forecasting",
+      "lastModified": "2025-11-21T12:53:22.000Z",
+      "numParameters": 205292928,
+      "repoType": "model"
+    },
+    {
+      "author": "NeoQuasar",
+      "id": "NeoQuasar/Kronos-Tokenizer-base",
+      "downloads": 3432590,
+      "likes": 56,
+      "pipeline_tag": "time-series-forecasting",
+      "lastModified": "2025-09-09T14:10:02.000Z",
+      "numParameters": 3958258,
+      "repoType": "model"
+    },
+    {
+      "author": "autogluon",
+      "id": "autogluon/chronos-bolt-base",
+      "downloads": 3383767,
+      "likes": 34,
+      "pipeline_tag": "time-series-forecasting",
+      "lastModified": "2025-10-30T09:20:44.000Z",
+      "numParameters": 205292928,
+      "repoType": "model"
+    },
+    {
+      "author": "autogluon",
+      "id": "autogluon/chronos-bolt-tiny",
+      "downloads": 2158096,
+      "likes": 13,
+      "pipeline_tag": "time-series-forecasting",
+      "lastModified": "2025-10-30T09:20:02.000Z",
+      "numParameters": null,
+      "repoType": "model"
+    },
+    {
+      "author": "autogluon",
+      "id": "autogluon/chronos-2-small",
+      "downloads": 2130120,
+      "likes": 4,
+      "pipeline_tag": "time-series-forecasting",
+      "lastModified": "2025-12-03T11:57:35.000Z",
+      "numParameters": 27934624,
+      "repoType": "model"
+    },
+    {
+      "author": "amazon",
+      "id": "amazon/chronos-t5-small",
+      "downloads": 1955108,
+      "likes": 141,
+      "pipeline_tag": "time-series-forecasting",
+      "lastModified": "2025-11-21T12:55:58.000Z",
+      "numParameters": 46154240,
+      "repoType": "model"
+    },
+    {
+      "author": "amazon",
+      "id": "amazon/chronos-bolt-small",
+      "downloads": 1661780,
+      "likes": 19,
+      "pipeline_tag": "time-series-forecasting",
+      "lastModified": "2025-11-21T12:54:10.000Z",
+      "numParameters": 47718016,
+      "repoType": "model"
+    },
+    {
+      "author": "amazon",
+      "id": "amazon/chronos-bolt-tiny",
+      "downloads": 1394425,
+      "likes": 28,
+      "pipeline_tag": "time-series-forecasting",
+      "lastModified": "2025-11-21T12:54:42.000Z",
+      "numParameters": 8652672,
+      "repoType": "model"
+    },
+    {
+      "author": "NeoQuasar",
+      "id": "NeoQuasar/Kronos-base",
+      "downloads": 1390716,
+      "likes": 170,
+      "pipeline_tag": "time-series-forecasting",
+      "lastModified": "2025-09-09T14:08:15.000Z",
+      "numParameters": 102311008,
+      "repoType": "model"
+    },
+    {
+      "author": "NeoQuasar",
+      "id": "NeoQuasar/Kronos-small",
+      "downloads": 1286172,
+      "likes": 20,
+      "pipeline_tag": "time-series-forecasting",
+      "lastModified": "2025-09-09T14:10:26.000Z",
+      "numParameters": 24741696,
+      "repoType": "model"
+    },
+    {
+      "author": "amazon",
+      "id": "amazon/chronos-t5-tiny",
+      "downloads": 1153196,
+      "likes": 121,
+      "pipeline_tag": "time-series-forecasting",
+      "lastModified": "2025-11-21T12:55:21.000Z",
+      "numParameters": 8394496,
+      "repoType": "model"
+    },
+    {
+      "author": "NeoQuasar",
+      "id": "NeoQuasar/Kronos-mini",
+      "downloads": 899401,
+      "likes": 21,
+      "pipeline_tag": "time-series-forecasting",
+      "lastModified": "2025-09-09T14:08:48.000Z",
+      "numParameters": 4108192,
+      "repoType": "model"
+    },
+    {
+      "author": "ibm-granite",
+      "id": "ibm-granite/granite-timeseries-ttm-r1",
+      "downloads": 682867,
+      "likes": 324,
+      "pipeline_tag": "time-series-forecasting",
+      "lastModified": "2025-01-30T14:38:28.000Z",
+      "numParameters": 805280,
+      "repoType": "model"
+    },
+    {
+      "author": "Salesforce",
+      "id": "Salesforce/moirai-2.0-R-small",
+      "downloads": 631146,
+      "likes": 41,
+      "pipeline_tag": "time-series-forecasting",
+      "lastModified": "2026-01-29T02:01:22.000Z",
+      "numParameters": null,
+      "repoType": "model"
+    },
+    {
+      "author": "NX-AI",
+      "id": "NX-AI/TiRex",
+      "downloads": 588634,
+      "likes": 92,
+      "pipeline_tag": "time-series-forecasting",
+      "lastModified": "2026-02-05T13:20:11.000Z",
+      "numParameters": null,
+      "repoType": "model"
+    },
+    {
+      "author": "autogluon",
+      "id": "autogluon/chronos-bolt-mini",
+      "downloads": 561069,
+      "likes": 8,
+      "pipeline_tag": "time-series-forecasting",
+      "lastModified": "2025-10-30T09:20:29.000Z",
+      "numParameters": 21236096,
+      "repoType": "model"
+    },
+    {
+      "author": "amazon",
+      "id": "amazon/chronos-t5-base",
+      "downloads": 511239,
+      "likes": 44,
+      "pipeline_tag": "time-series-forecasting",
+      "lastModified": "2025-11-21T12:56:17.000Z",
+      "numParameters": 201374976,
+      "repoType": "model"
+    },
+    {
+      "author": "ibm-granite",
+      "id": "ibm-granite/granite-timeseries-ttm-r2",
+      "downloads": 426631,
+      "likes": 163,
+      "pipeline_tag": "time-series-forecasting",
+      "lastModified": "2025-02-26T13:33:01.000Z",
+      "numParameters": 805280,
+      "repoType": "model"
+    },
+    {
+      "author": "thuml",
+      "id": "thuml/sundial-base-128m",
+      "downloads": 419528,
+      "likes": 77,
+      "pipeline_tag": "time-series-forecasting",
+      "lastModified": "2026-03-09T05:52:00.000Z",
+      "numParameters": 128329680,
+      "repoType": "model"
+    },
+    {
+      "author": "Salesforce",
+      "id": "Salesforce/moirai-1.1-R-large",
+      "downloads": 391837,
+      "likes": 30,
+      "pipeline_tag": "time-series-forecasting",
+      "lastModified": "2025-01-21T09:21:06.000Z",
+      "numParameters": 310970624,
+      "repoType": "model"
+    },
+    {
+      "author": "Maple728",
+      "id": "Maple728/TimeMoE-200M",
+      "downloads": 385120,
+      "likes": 15,
+      "pipeline_tag": "time-series-forecasting",
+      "lastModified": "2024-10-22T06:28:59.000Z",
+      "numParameters": 453196800,
+      "repoType": "model"
+    },
+    {
+      "author": "Maple728",
+      "id": "Maple728/TimeMoE-50M",
+      "downloads": 330433,
+      "likes": 20,
+      "pipeline_tag": "time-series-forecasting",
+      "lastModified": "2024-10-22T06:39:52.000Z",
+      "numParameters": 113352192,
+      "repoType": "model"
+    },
+    {
+      "author": "Salesforce",
+      "id": "Salesforce/moirai-moe-1.0-R-small",
+      "downloads": 326170,
+      "likes": 8,
+      "pipeline_tag": "time-series-forecasting",
+      "lastModified": "2025-01-21T09:22:48.000Z",
+      "numParameters": 117099528,
+      "repoType": "model"
+    },
+    {
+      "author": "NeoQuasar",
+      "id": "NeoQuasar/Kronos-Tokenizer-2k",
+      "downloads": 297271,
+      "likes": 4,
+      "pipeline_tag": "time-series-forecasting",
+      "lastModified": "2025-09-09T14:09:37.000Z",
+      "numParameters": 3958259,
+      "repoType": "model"
+    },
+    {
+      "author": "Salesforce",
+      "id": "Salesforce/moirai-1.0-R-base",
+      "downloads": 267898,
+      "likes": 32,
+      "pipeline_tag": "time-series-forecasting",
+      "lastModified": "2025-01-21T09:10:49.000Z",
+      "numParameters": 91357728,
+      "repoType": "model"
+    },
+    {
+      "author": "AutonLab",
+      "id": "AutonLab/MOMENT-1-small",
+      "downloads": 241436,
+      "likes": 6,
+      "pipeline_tag": "time-series-forecasting",
+      "lastModified": "2025-03-26T01:42:59.000Z",
+      "numParameters": 37901512,
+      "repoType": "model"
+    },
+    {
+      "author": "Salesforce",
+      "id": "Salesforce/moirai-moe-1.0-R-base",
+      "downloads": 180558,
+      "likes": 19,
+      "pipeline_tag": "time-series-forecasting",
+      "lastModified": "2025-01-21T09:23:10.000Z",
+      "numParameters": 935361504,
+      "repoType": "model"
+    }
+  ],
+  "fetchedAt": "2026-06-01T22:29:45.233Z"
+}

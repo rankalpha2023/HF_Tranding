@@ -1,0 +1,309 @@
+{
+  "category": "token-classification",
+  "sort": "trending",
+  "totalItems": 27680,
+  "fetchedItems": 30,
+  "models": [
+    {
+      "author": "openai",
+      "id": "openai/privacy-filter",
+      "downloads": 316092,
+      "likes": 1578,
+      "pipeline_tag": "token-classification",
+      "lastModified": "2026-04-22T16:50:17.000Z",
+      "numParameters": 1399486865,
+      "repoType": "model"
+    },
+    {
+      "author": "fastino",
+      "id": "fastino/gliner2-privacy-filter-PII-multi",
+      "downloads": 10825,
+      "likes": 28,
+      "pipeline_tag": "token-classification",
+      "lastModified": "2026-05-14T18:18:54.000Z",
+      "numParameters": 307098645,
+      "repoType": "model"
+    },
+    {
+      "author": "nvidia",
+      "id": "nvidia/gliner-PII",
+      "downloads": 6833,
+      "likes": 134,
+      "pipeline_tag": "token-classification",
+      "lastModified": "2025-12-07T21:51:24.000Z",
+      "numParameters": null,
+      "repoType": "model"
+    },
+    {
+      "author": "OpenMed",
+      "id": "OpenMed/privacy-filter-multilingual",
+      "downloads": 21968,
+      "likes": 10,
+      "pipeline_tag": "token-classification",
+      "lastModified": "2026-05-03T21:36:31.000Z",
+      "numParameters": 1399604809,
+      "repoType": "model"
+    },
+    {
+      "author": "Babelscape",
+      "id": "Babelscape/wikineural-multilingual-ner",
+      "downloads": 757153,
+      "likes": 164,
+      "pipeline_tag": "token-classification",
+      "lastModified": "2023-05-23T08:47:23.000Z",
+      "numParameters": 177270281,
+      "repoType": "model"
+    },
+    {
+      "author": "KoichiYasuoka",
+      "id": "KoichiYasuoka/roberta-classical-chinese-large-upos",
+      "downloads": 135,
+      "likes": 3,
+      "pipeline_tag": "token-classification",
+      "lastModified": "2026-01-22T13:43:47.000Z",
+      "numParameters": null,
+      "repoType": "model"
+    },
+    {
+      "author": "dslim",
+      "id": "dslim/bert-base-NER",
+      "downloads": 1563231,
+      "likes": 718,
+      "pipeline_tag": "token-classification",
+      "lastModified": "2024-10-08T07:51:39.000Z",
+      "numParameters": 108317193,
+      "repoType": "model"
+    },
+    {
+      "author": "stanfordnlp",
+      "id": "stanfordnlp/stanza-ro",
+      "downloads": 437,
+      "likes": 1,
+      "pipeline_tag": "token-classification",
+      "lastModified": "2026-03-14T09:50:17.000Z",
+      "numParameters": null,
+      "repoType": "model"
+    },
+    {
+      "author": "uer",
+      "id": "uer/roberta-base-finetuned-cluener2020-chinese",
+      "downloads": 2931,
+      "likes": 47,
+      "pipeline_tag": "token-classification",
+      "lastModified": "2023-10-17T15:17:38.000Z",
+      "numParameters": null,
+      "repoType": "model"
+    },
+    {
+      "author": "ukr-models",
+      "id": "ukr-models/uk-ner",
+      "downloads": 47,
+      "likes": 5,
+      "pipeline_tag": "token-classification",
+      "lastModified": "2023-08-31T09:41:21.000Z",
+      "numParameters": 109475849,
+      "repoType": "model"
+    },
+    {
+      "author": "kontur-ai",
+      "id": "kontur-ai/sbert_punc_case_ru",
+      "downloads": 68607,
+      "likes": 41,
+      "pipeline_tag": "token-classification",
+      "lastModified": "2024-03-22T11:13:27.000Z",
+      "numParameters": 425872397,
+      "repoType": "model"
+    },
+    {
+      "author": "NlpHUST",
+      "id": "NlpHUST/ner-vietnamese-electra-base",
+      "downloads": 3736,
+      "likes": 23,
+      "pipeline_tag": "token-classification",
+      "lastModified": "2024-11-08T14:25:46.000Z",
+      "numParameters": 133074185,
+      "repoType": "model"
+    },
+    {
+      "author": "spacy",
+      "id": "spacy/uk_core_news_lg",
+      "downloads": 1,
+      "likes": 1,
+      "pipeline_tag": "token-classification",
+      "lastModified": "2023-10-10T06:35:35.000Z",
+      "numParameters": null,
+      "repoType": "model"
+    },
+    {
+      "author": "Leo97",
+      "id": "Leo97/KoELECTRA-small-v3-modu-ner",
+      "downloads": 26437,
+      "likes": 25,
+      "pipeline_tag": "token-classification",
+      "lastModified": "2023-04-07T05:57:01.000Z",
+      "numParameters": 14064671,
+      "repoType": "model"
+    },
+    {
+      "author": "protectai",
+      "id": "protectai/unbiased-toxic-roberta-onnx",
+      "downloads": 39818,
+      "likes": 6,
+      "pipeline_tag": "token-classification",
+      "lastModified": "2024-03-25T12:01:40.000Z",
+      "numParameters": null,
+      "repoType": "model"
+    },
+    {
+      "author": "blaze999",
+      "id": "blaze999/Medical-NER",
+      "downloads": 45115,
+      "likes": 230,
+      "pipeline_tag": "token-classification",
+      "lastModified": "2024-04-08T06:15:22.000Z",
+      "numParameters": 183895379,
+      "repoType": "model"
+    },
+    {
+      "author": "ab-ai",
+      "id": "ab-ai/pii_model",
+      "downloads": 5081,
+      "likes": 30,
+      "pipeline_tag": "token-classification",
+      "lastModified": "2026-05-04T11:20:29.000Z",
+      "numParameters": 108978545,
+      "repoType": "model"
+    },
+    {
+      "author": "urchade",
+      "id": "urchade/gliner_multi_pii-v1",
+      "downloads": 48906,
+      "likes": 170,
+      "pipeline_tag": "token-classification",
+      "lastModified": "2024-04-20T16:16:50.000Z",
+      "numParameters": null,
+      "repoType": "model"
+    },
+    {
+      "author": "ai4privacy",
+      "id": "ai4privacy/llama-ai4privacy-english-anonymiser-openpii",
+      "downloads": 657,
+      "likes": 19,
+      "pipeline_tag": "token-classification",
+      "lastModified": "2025-06-05T10:23:10.000Z",
+      "numParameters": 149607171,
+      "repoType": "model"
+    },
+    {
+      "author": "tanaos",
+      "id": "tanaos/tanaos-text-anonymizer-v1",
+      "downloads": 61,
+      "likes": 127,
+      "pipeline_tag": "token-classification",
+      "lastModified": "2026-03-27T07:41:38.000Z",
+      "numParameters": 124063499,
+      "repoType": "model"
+    },
+    {
+      "author": "chuuhtetnaing",
+      "id": "chuuhtetnaing/myanmar-text-segmentation-model",
+      "downloads": 8,
+      "likes": 2,
+      "pipeline_tag": "token-classification",
+      "lastModified": "2025-12-24T17:42:46.000Z",
+      "numParameters": 277454594,
+      "repoType": "model"
+    },
+    {
+      "author": "chopratejas",
+      "id": "chopratejas/kompress-base",
+      "downloads": 110,
+      "likes": 6,
+      "pipeline_tag": "token-classification",
+      "lastModified": "2026-03-31T05:34:57.000Z",
+      "numParameters": 149999875,
+      "repoType": "model"
+    },
+    {
+      "author": "bardsai",
+      "id": "bardsai/eu-pii-anonimization-multilang",
+      "downloads": 1157,
+      "likes": 11,
+      "pipeline_tag": "token-classification",
+      "lastModified": "2026-05-13T13:03:09.000Z",
+      "numParameters": 277506117,
+      "repoType": "model"
+    },
+    {
+      "author": "rtrigoso",
+      "id": "rtrigoso/bert-small-pii-detection-ONNX",
+      "downloads": 241,
+      "likes": 2,
+      "pipeline_tag": "token-classification",
+      "lastModified": "2026-03-20T03:52:10.000Z",
+      "numParameters": null,
+      "repoType": "model"
+    },
+    {
+      "author": "phenningsson",
+      "id": "phenningsson/sdhk-ner-old-swedish-v2",
+      "downloads": 36,
+      "likes": 1,
+      "pipeline_tag": "token-classification",
+      "lastModified": "2026-05-27T09:41:02.000Z",
+      "numParameters": 558845957,
+      "repoType": "model"
+    },
+    {
+      "author": "OpenMed",
+      "id": "OpenMed/privacy-filter-nemotron",
+      "downloads": 75972,
+      "likes": 44,
+      "pipeline_tag": "token-classification",
+      "lastModified": "2026-04-28T08:01:07.000Z",
+      "numParameters": 1399607373,
+      "repoType": "model"
+    },
+    {
+      "author": "lianghsun",
+      "id": "lianghsun/privacy-filter-tw",
+      "downloads": 5,
+      "likes": 18,
+      "pipeline_tag": "token-classification",
+      "lastModified": "2026-05-04T03:53:22.000Z",
+      "numParameters": 1399514992,
+      "repoType": "model"
+    },
+    {
+      "author": "chairulridjal",
+      "id": "chairulridjal/arcspan",
+      "downloads": 9,
+      "likes": 1,
+      "pipeline_tag": "token-classification",
+      "lastModified": "2026-05-29T09:23:43.000Z",
+      "numParameters": 1399479152,
+      "repoType": "model"
+    },
+    {
+      "author": "rchuluc",
+      "id": "rchuluc/bertimbau-large-ner-total-onnx",
+      "downloads": 51,
+      "likes": 1,
+      "pipeline_tag": "token-classification",
+      "lastModified": "2026-05-21T17:28:28.000Z",
+      "numParameters": null,
+      "repoType": "model"
+    },
+    {
+      "author": "galexdav",
+      "id": "galexdav/privacy-filter-finetuned",
+      "downloads": 57,
+      "likes": 1,
+      "pipeline_tag": "token-classification",
+      "lastModified": "2026-05-25T10:44:05.000Z",
+      "numParameters": 1399494512,
+      "repoType": "model"
+    }
+  ],
+  "fetchedAt": "2026-06-01T22:29:46.052Z"
+}
